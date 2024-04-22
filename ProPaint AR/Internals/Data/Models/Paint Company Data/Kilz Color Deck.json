@@ -1,0 +1,3210 @@
+{
+  "colorFamilies": {
+    "Expressions": [
+      {
+        "familyName": "REDS",
+        "familyColor": "#AE8F9F",
+        "familyAll": [
+          {
+            "code": "A681",
+            "color": "HISTORIC ROSE",
+            "hex": "#AE8F9F"
+          },
+          {
+            "code": "A671",
+            "color": "DRIED PETALS",
+            "hex": "#B6A6B3"
+          },
+          {
+            "code": "A661",
+            "color": "MAUVE MELODY",
+            "hex": "#BBA4B6"
+          },
+          {
+            "code": "A592",
+            "color": "VINTAGE BOUQUET",
+            "hex": "#CEB8C5"
+          },
+          {
+            "code": "A692",
+            "color": "FUSION",
+            "hex": "#A77497"
+          },
+          {
+            "code": "A632",
+            "color": "CANDY STORE",
+            "hex": "#C694B4"
+          },
+          {
+            "code": "A641",
+            "color": "BERRY CREAM",
+            "hex": "#E3BDDA"
+          },
+          {
+            "code": "A621",
+            "color": "ROSE CLOUD",
+            "hex": "#DECFE3"
+          },
+          {
+            "code": "A572",
+            "color": "SUGAR COATED",
+            "hex": "#D29CB4"
+          },
+          {
+            "code": "A582",
+            "color": "PEONY PETAL",
+            "hex": "#DDC0D4"
+          },
+          {
+            "code": "A571",
+            "color": "WILD PEONY",
+            "hex": "#E6C0D4"
+          },
+          {
+            "code": "A581",
+            "color": "BREEZY PINK",
+            "hex": "#E5D0E0"
+          },
+          {
+            "code": "A542",
+            "color": "PEAKING PINK",
+            "hex": "#AF6B82"
+          },
+          {
+            "code": "A562",
+            "color": "SINCERITY",
+            "hex": "#D492A4"
+          },
+          {
+            "code": "A541",
+            "color": "SURE PINK",
+            "hex": "#DBABBD"
+          },
+          {
+            "code": "A591",
+            "color": "BRIDAL BLUSH",
+            "hex": "#E2D4DA"
+          },
+          {
+            "code": "A511",
+            "color": "CRANBERRY SPICE",
+            "hex": "#7D4B5D"
+          },
+          {
+            "code": "A552",
+            "color": "LASTING PINK",
+            "hex": "#CF909A"
+          },
+          {
+            "code": "A561",
+            "color": "LOVEY DOVEY",
+            "hex": "#E7B1C3"
+          },
+          {
+            "code": "A551",
+            "color": "PIGGY BANK PINK",
+            "hex": "#E3B3BE"
+          },
+          {
+            "code": "A512",
+            "color": "DEEP POMEGRANATE",
+            "hex": "#6B4B57"
+          },
+          {
+            "code": "A501",
+            "color": "CINNAMON RAISIN",
+            "hex": "#7C5C5F"
+          },
+          {
+            "code": "A521",
+            "color": "AUTUMN ASPEN",
+            "hex": "#AC7F81"
+          },
+          {
+            "code": "A531",
+            "color": "PAPER DOLLS",
+            "hex": "#C19091"
+          },
+          {
+            "code": "B502",
+            "color": "RED TEA",
+            "hex": "#733E4E"
+          },
+          {
+            "code": "A522",
+            "color": "AUSTRALIAN SHIRAZ",
+            "hex": "#825B5E"
+          },
+          {
+            "code": "A532",
+            "color": "EARTHY RED",
+            "hex": "#A26066"
+          },
+          {
+            "code": "B542",
+            "color": "CLOWN NOSE",
+            "hex": "#A86166"
+          },
+          {
+            "code": "B501",
+            "color": "CINNAMON APPLE",
+            "hex": "#9A5052"
+          },
+          {
+            "code": "B521",
+            "color": "TOMATO POWDER",
+            "hex": "#AE5C54"
+          },
+          {
+            "code": "B592",
+            "color": "SMITTEN",
+            "hex": "#DD9FA5"
+          },
+          {
+            "code": "B591",
+            "color": "SOFT SPOKEN",
+            "hex": "#ECC2C3"
+          },
+          {
+            "code": "B532",
+            "color": "RED FLARE",
+            "hex": "#AC4D48"
+          },
+          {
+            "code": "B562",
+            "color": "WATERMELON CRUSH",
+            "hex": "#C37776"
+          },
+          {
+            "code": "B581",
+            "color": "COOL LEMONADE",
+            "hex": "#DFAAAA"
+          },
+          {
+            "code": "B612",
+            "color": "SWEET BLUSH",
+            "hex": "#EDD2D1"
+          },
+          {
+            "code": "B541",
+            "color": "DRAGON",
+            "hex": "#C87779"
+          },
+          {
+            "code": "B561",
+            "color": "COOL WATERMELON",
+            "hex": "#D98686"
+          },
+          {
+            "code": "B582",
+            "color": "CANYON BLOSSOM",
+            "hex": "#DE9B98"
+          },
+          {
+            "code": "B601",
+            "color": "WARM SHAWL",
+            "hex": "#EDC4C0"
+          },
+          {
+            "code": "B551",
+            "color": "CLAY POTTERY",
+            "hex": "#C9968F"
+          },
+          {
+            "code": "B602",
+            "color": "GRAVADLOX",
+            "hex": "#DDA7A1"
+          },
+          {
+            "code": "B571",
+            "color": "CORAL MYTH",
+            "hex": "#EBAAA1"
+          },
+          {
+            "code": "B621",
+            "color": "CHAMPAGNE WISH",
+            "hex": "#EBD5D2"
+          },
+          {
+            "code": "B511",
+            "color": "RED GINSENG",
+            "hex": "#A0524C"
+          },
+          {
+            "code": "B531",
+            "color": "BRICKWORK",
+            "hex": "#BE766C"
+          },
+          {
+            "code": "B622",
+            "color": "CAMEO CORAL",
+            "hex": "#EBD1CA"
+          },
+          {
+            "code": "B611",
+            "color": "PEACH GLAMOUR",
+            "hex": "#EFE0DC"
+          },
+          {
+            "code": "B522",
+            "color": "ORIENTAL RED",
+            "hex": "#7D3537"
+          },
+          {
+            "code": "B681",
+            "color": "SUN BURNT",
+            "hex": "#D39587"
+          },
+          {
+            "code": "B572",
+            "color": "CORAL RIDGE",
+            "hex": "#E49A90"
+          },
+          {
+            "code": "B641",
+            "color": "FROSTED ORANGE",
+            "hex": "#F0D2C9"
+          }
+        ]
+      },
+      {
+        "familyName": "ORANGES",
+        "familyColor": "#7F5E58",
+        "familyAll": [
+          {
+            "code": "C501",
+            "color": "LEGENDARY",
+            "hex": "#7F5E58"
+          },
+          {
+            "code": "B552",
+            "color": "SPANISH SHERRY",
+            "hex": "#A06F6B"
+          },
+          {
+            "code": "B642",
+            "color": "BRANDIED MELON",
+            "hex": "#E6AFA2"
+          },
+          {
+            "code": "B632",
+            "color": "ARIZONA CLAY",
+            "hex": "#E2BCAF"
+          },
+          {
+            "code": "B512",
+            "color": "BARN BOARD",
+            "hex": "#7B3F43"
+          },
+          {
+            "code": "B682",
+            "color": "BLOODY MARY",
+            "hex": "#AC614F"
+          },
+          {
+            "code": "B662",
+            "color": "ANTIGUA SUNSET",
+            "hex": "#E08E78"
+          },
+          {
+            "code": "B631",
+            "color": "NOUVEAU APRICOT",
+            "hex": "#ECCCBE"
+          },
+          {
+            "code": "B702",
+            "color": "AUTUMN RIDGE",
+            "hex": "#9D5444"
+          },
+          {
+            "code": "B692",
+            "color": "SCORCHING HOT",
+            "hex": "#AF5B41"
+          },
+          {
+            "code": "B652",
+            "color": "SWEET PAPAYA",
+            "hex": "#DD9880"
+          },
+          {
+            "code": "B661",
+            "color": "MANDARIN MIMOSA",
+            "hex": "#ECB19D"
+          },
+          {
+            "code": "B701",
+            "color": "LOBSTER TAIL",
+            "hex": "#BD6D52"
+          },
+          {
+            "code": "B691",
+            "color": "TIMELESS TERRA COTTA",
+            "hex": "#D1846C"
+          },
+          {
+            "code": "B651",
+            "color": "DESERT ORANGE",
+            "hex": "#EBB8A5"
+          },
+          {
+            "code": "C601",
+            "color": "ANTIQUE PEACH",
+            "hex": "#F0D4C6"
+          },
+          {
+            "code": "C522",
+            "color": "CINNAMON SPELL",
+            "hex": "#7F4E45"
+          },
+          {
+            "code": "B671",
+            "color": "ORANGE GINGER",
+            "hex": "#D9A28C"
+          },
+          {
+            "code": "C631",
+            "color": "GENTLE EMBRACE",
+            "hex": "#F4CBB7"
+          },
+          {
+            "code": "C602",
+            "color": "GOSSAMER PEACH",
+            "hex": "#F2CCBA"
+          },
+          {
+            "code": "C502",
+            "color": "DARK RUST",
+            "hex": "#5F4036"
+          },
+          {
+            "code": "C512",
+            "color": "RICH LEATHER",
+            "hex": "#76433E"
+          },
+          {
+            "code": "B672",
+            "color": "BAKED CINNAMON",
+            "hex": "#BD8772"
+          },
+          {
+            "code": "C582",
+            "color": "TAN BLUSH",
+            "hex": "#D1A894"
+          },
+          {
+            "code": "C511",
+            "color": "BROWN CHIPOTLE",
+            "hex": "#88665B"
+          },
+          {
+            "code": "D532",
+            "color": "ROYAL PECAN",
+            "hex": "#916B5C"
+          },
+          {
+            "code": "C521",
+            "color": "PEACH BRANDY",
+            "hex": "#9F715F"
+          },
+          {
+            "code": "C541",
+            "color": "DUSTY BRONZE",
+            "hex": "#B38F7E"
+          },
+          {
+            "code": "C531",
+            "color": "SPICY TWIST",
+            "hex": "#AB6951"
+          },
+          {
+            "code": "C662",
+            "color": "INDIAN CURRY",
+            "hex": "#D58E73"
+          },
+          {
+            "code": "C661",
+            "color": "EMBER GLOW",
+            "hex": "#E6A78D"
+          },
+          {
+            "code": "C621",
+            "color": "TEA ROOM",
+            "hex": "#F8D3BE"
+          },
+          {
+            "code": "C682",
+            "color": "PERUVIAN ORANGE",
+            "hex": "#C7744F"
+          },
+          {
+            "code": "C632",
+            "color": "YUMMY",
+            "hex": "#E7A889"
+          },
+          {
+            "code": "C681",
+            "color": "ORANGE CRUSH",
+            "hex": "#EBAB87"
+          },
+          {
+            "code": "C622",
+            "color": "SUMMER SMOOTHIE",
+            "hex": "#F1BB9F"
+          },
+          {
+            "code": "C532",
+            "color": "AUTUMN ABUNDANCE",
+            "hex": "#8F5335"
+          },
+          {
+            "code": "C542",
+            "color": "SPICED TEA",
+            "hex": "#9A6650"
+          },
+          {
+            "code": "C572",
+            "color": "MAMEY SHAKE",
+            "hex": "#CA987F"
+          },
+          {
+            "code": "C571",
+            "color": "CRUSHED SHELL",
+            "hex": "#E6BEA6"
+          },
+          {
+            "code": "C562",
+            "color": "BURNT SIENNA",
+            "hex": "#A57E6A"
+          },
+          {
+            "code": "C561",
+            "color": "SPICED APRICOT",
+            "hex": "#BB8E76"
+          },
+          {
+            "code": "C551",
+            "color": "ADOBE BRICKS",
+            "hex": "#C99277"
+          },
+          {
+            "code": "C581",
+            "color": "ADOBE DUST",
+            "hex": "#EAC2AD"
+          },
+          {
+            "code": "C552",
+            "color": "ROASTED PUMPKIN",
+            "hex": "#A0684C"
+          },
+          {
+            "code": "C592",
+            "color": "BRANDY CREAM",
+            "hex": "#D2AF9C"
+          },
+          {
+            "code": "D581",
+            "color": "WASSAIL",
+            "hex": "#E0C0A8"
+          },
+          {
+            "code": "C591",
+            "color": "CIDER TODDY",
+            "hex": "#E3C4B0"
+          },
+          {
+            "code": "C692",
+            "color": "SPICE MARKET",
+            "hex": "#D37E4F"
+          },
+          {
+            "code": "C691",
+            "color": "SPICED ORANGE",
+            "hex": "#E0986C"
+          },
+          {
+            "code": "C652",
+            "color": "BAKED PUMPKIN",
+            "hex": "#E39F73"
+          },
+          {
+            "code": "C651",
+            "color": "PALE TANGERINE",
+            "hex": "#FACBAA"
+          },
+          {
+            "code": "C672",
+            "color": "POM POM ORANGE",
+            "hex": "#D48857"
+          },
+          {
+            "code": "C671",
+            "color": "PUMPKIN BLUSH",
+            "hex": "#DDA47C"
+          },
+          {
+            "code": "C612",
+            "color": "PETITE PEACH",
+            "hex": "#F3C2A0"
+          },
+          {
+            "code": "C611",
+            "color": "SUMMER ESSENCE",
+            "hex": "#F8D7BF"
+          },
+          {
+            "code": "C702",
+            "color": "GLAZED CARROT",
+            "hex": "#B26F48"
+          },
+          {
+            "code": "C701",
+            "color": "BITTERSWEET ORANGE",
+            "hex": "#CB834D"
+          },
+          {
+            "code": "C642",
+            "color": "PEACH CRISP",
+            "hex": "#E5AB7F"
+          },
+          {
+            "code": "C641",
+            "color": "CANTALOUPE JUICE",
+            "hex": "#EFC5A8"
+          },
+          {
+            "code": "D522",
+            "color": "TOASTY",
+            "hex": "#865C45"
+          },
+          {
+            "code": "D521",
+            "color": "CAPPUCCINO SPICE",
+            "hex": "#B08A72"
+          },
+          {
+            "code": "D582",
+            "color": "CINNASWIRL",
+            "hex": "#C89C7E"
+          },
+          {
+            "code": "D592",
+            "color": "DUSTY ORANGE",
+            "hex": "#E7BD98"
+          },
+          {
+            "code": "D552",
+            "color": "MAPLE FUDGE",
+            "hex": "#A17759"
+          },
+          {
+            "code": "D691",
+            "color": "DESERT VISTA",
+            "hex": "#E8AF81"
+          },
+          {
+            "code": "D602",
+            "color": "SOMETHING SWEET",
+            "hex": "#F7CAA1"
+          },
+          {
+            "code": "D591",
+            "color": "DISCREET",
+            "hex": "#F9DDBF"
+          },
+          {
+            "code": "D692",
+            "color": "GARDEN MARIGOLD",
+            "hex": "#D3904F"
+          },
+          {
+            "code": "D612",
+            "color": "SLICED MELON",
+            "hex": "#F6C694"
+          },
+          {
+            "code": "D601",
+            "color": "CAMISOLE SILK",
+            "hex": "#F9DAB6"
+          },
+          {
+            "code": "D611",
+            "color": "AMBER LIGHT",
+            "hex": "#FADAB2"
+          }
+        ]
+      },
+      {
+        "familyName": "YELLOW",
+        "familyColor": "#DB974C",
+        "familyAll": [
+          {
+            "code": "D701",
+            "color": "HABANERO",
+            "hex": "#DB974C"
+          },
+          {
+            "code": "D682",
+            "color": "SQUEAKY TOY",
+            "hex": "#DBA05E"
+          },
+          {
+            "code": "D681",
+            "color": "BUTTERSCOTCH SAUCE",
+            "hex": "#E5B379"
+          },
+          {
+            "code": "D622",
+            "color": "AUGUST MORNING",
+            "hex": "#F8C890"
+          },
+          {
+            "code": "D562",
+            "color": "SOFT TOFFEE",
+            "hex": "#A57D57"
+          },
+          {
+            "code": "D551",
+            "color": "PEANUT SHELL",
+            "hex": "#CCAB8A"
+          },
+          {
+            "code": "D561",
+            "color": "SUN HAT",
+            "hex": "#CDB193"
+          },
+          {
+            "code": "D651",
+            "color": "APPLE MUFFIN",
+            "hex": "#EFD6B6"
+          },
+          {
+            "code": "D511",
+            "color": "GINGERBREAD",
+            "hex": "#9C7C5C"
+          },
+          {
+            "code": "D652",
+            "color": "ANTIQUARIAN BRASS",
+            "hex": "#DEB485"
+          },
+          {
+            "code": "D662",
+            "color": "HALF BAKED",
+            "hex": "#E2B481"
+          },
+          {
+            "code": "D661",
+            "color": "CITRUS SPICE",
+            "hex": "#F0C695"
+          },
+          {
+            "code": "D702",
+            "color": "GOLDEN SUNRISE",
+            "hex": "#BD894F"
+          },
+          {
+            "code": "D642",
+            "color": "CRISP WHEAT",
+            "hex": "#D7B486"
+          },
+          {
+            "code": "D632",
+            "color": "ROASTED PEANUT",
+            "hex": "#DDB987"
+          },
+          {
+            "code": "D621",
+            "color": "MORNING MOON",
+            "hex": "#F9DCB7"
+          },
+          {
+            "code": "E512",
+            "color": "BOMBAY GOLD",
+            "hex": "#B2864F"
+          },
+          {
+            "code": "E562",
+            "color": "POMMERY MUSTARD",
+            "hex": "#E7B677"
+          },
+          {
+            "code": "E541",
+            "color": "TORCH",
+            "hex": "#EDBD80"
+          },
+          {
+            "code": "E551",
+            "color": "JOLLY",
+            "hex": "#F8CA8F"
+          },
+          {
+            "code": "E502",
+            "color": "FALL LEAF",
+            "hex": "#B48347"
+          },
+          {
+            "code": "E552",
+            "color": "DINGO",
+            "hex": "#D7A05E"
+          },
+          {
+            "code": "D641",
+            "color": "SPARKLING CIDER",
+            "hex": "#EDD2AC"
+          },
+          {
+            "code": "E611",
+            "color": "WALNUT CREAM",
+            "hex": "#F7E2C4"
+          },
+          {
+            "code": "E532",
+            "color": "BRONZE GLOW",
+            "hex": "#CAA167"
+          },
+          {
+            "code": "E531",
+            "color": "PITA CHIP",
+            "hex": "#D7BB94"
+          },
+          {
+            "code": "E612",
+            "color": "GARBANZO",
+            "hex": "#EAD2AF"
+          },
+          {
+            "code": "E601",
+            "color": "SAVORY CREAM",
+            "hex": "#FBDDB2"
+          },
+          {
+            "code": "E542",
+            "color": "AZTEC YELLOW",
+            "hex": "#C99C61"
+          },
+          {
+            "code": "E572",
+            "color": "AUTUMN WREATH",
+            "hex": "#EBB468"
+          },
+          {
+            "code": "E561",
+            "color": "FENNEL POLLEN",
+            "hex": "#F8CC8F"
+          },
+          {
+            "code": "E591",
+            "color": "LIGHT HONEY",
+            "hex": "#FDE2B4"
+          },
+          {
+            "code": "D672",
+            "color": "BANANA NUT",
+            "hex": "#D0AB75"
+          },
+          {
+            "code": "E511",
+            "color": "COOKIE CRUMBS",
+            "hex": "#DEBC8B"
+          },
+          {
+            "code": "D671",
+            "color": "FRENCH BUN",
+            "hex": "#E2BD8C"
+          },
+          {
+            "code": "D631",
+            "color": "EGGNOG LATTE",
+            "hex": "#E6CEAB"
+          },
+          {
+            "code": "E522",
+            "color": "LATE WHEAT",
+            "hex": "#BF9967"
+          },
+          {
+            "code": "E592",
+            "color": "GOLDEN CORN",
+            "hex": "#F2C782"
+          },
+          {
+            "code": "E602",
+            "color": "BANANA SHAKE",
+            "hex": "#F0C991"
+          },
+          {
+            "code": "E621",
+            "color": "CHENIN BLANC",
+            "hex": "#ECE2CA"
+          },
+          {
+            "code": "E501",
+            "color": "AGED AMBER",
+            "hex": "#DFB676"
+          },
+          {
+            "code": "E661",
+            "color": "PINEAPPLE CITRUS",
+            "hex": "#F2D094"
+          },
+          {
+            "code": "E671",
+            "color": "FRESH CITRUS",
+            "hex": "#F9D891"
+          },
+          {
+            "code": "E651",
+            "color": "DROP OF GOLD",
+            "hex": "#F1DBAC"
+          },
+          {
+            "code": "E582",
+            "color": "POPPY FIELD",
+            "hex": "#F4C273"
+          },
+          {
+            "code": "E571",
+            "color": "FIRE GLOW",
+            "hex": "#F9DAA2"
+          },
+          {
+            "code": "E581",
+            "color": "BANANA WHIP",
+            "hex": "#F8DDAF"
+          },
+          {
+            "code": "E622",
+            "color": "HONEY WHIP",
+            "hex": "#EFDBB3"
+          },
+          {
+            "code": "E672",
+            "color": "MATISSE GOLD",
+            "hex": "#CEA860"
+          },
+          {
+            "code": "E642",
+            "color": "SWEET LEMONADE",
+            "hex": "#F6DE9C"
+          },
+          {
+            "code": "E631",
+            "color": "BROADWAY LIGHT",
+            "hex": "#F0E2B7"
+          },
+          {
+            "code": "E641",
+            "color": "BEARNAISE",
+            "hex": "#F5EAC1"
+          },
+          {
+            "code": "E692",
+            "color": "APPLE BUTTER",
+            "hex": "#A7854C"
+          },
+          {
+            "code": "E691",
+            "color": "PALE ALE",
+            "hex": "#D4BB8B"
+          },
+          {
+            "code": "E652",
+            "color": "VEGAS",
+            "hex": "#EBD198"
+          },
+          {
+            "code": "E632",
+            "color": "LEMON VERBENA",
+            "hex": "#EBD69B"
+          },
+          {
+            "code": "E701",
+            "color": "BRONZE AMULET",
+            "hex": "#A0855C"
+          },
+          {
+            "code": "E682",
+            "color": "GOLDEN BLONDE",
+            "hex": "#BF9F6A"
+          },
+          {
+            "code": "E662",
+            "color": "BRASS CHARM",
+            "hex": "#D4AB6A"
+          },
+          {
+            "code": "E681",
+            "color": "BULGUR WHEAT",
+            "hex": "#DABE93"
+          },
+          {
+            "code": "E702",
+            "color": "TEA AND HONEY",
+            "hex": "#866A42"
+          },
+          {
+            "code": "E521",
+            "color": "NATURAL WICKER",
+            "hex": "#D6B78C"
+          }
+        ]
+      },
+      {
+        "familyName": "GREENS",
+        "familyColor": "#745E38",
+        "familyAll": [
+          {
+            "code": "F502",
+            "color": "EARTHY OCHRE",
+            "hex": "#745E38"
+          },
+          {
+            "code": "F652",
+            "color": "PICKLED PEPPERS",
+            "hex": "#9A8B69"
+          },
+          {
+            "code": "F501",
+            "color": "WILDLIFE SANCTUARY",
+            "hex": "#A7966A"
+          },
+          {
+            "code": "F582",
+            "color": "BARELY GOLD",
+            "hex": "#E1D3B0"
+          },
+          {
+            "code": "F522",
+            "color": "OPEN ADVENTURE",
+            "hex": "#B5A069"
+          },
+          {
+            "code": "F542",
+            "color": "RIPE OLIVES",
+            "hex": "#BFA569"
+          },
+          {
+            "code": "F521",
+            "color": "PALM OIL",
+            "hex": "#CEBE90"
+          },
+          {
+            "code": "F641",
+            "color": "GRASS SEED",
+            "hex": "#D8C9A2"
+          },
+          {
+            "code": "F511",
+            "color": "FRESH AVOCADO",
+            "hex": "#BAA24E"
+          },
+          {
+            "code": "F532",
+            "color": "GREEN CURRY",
+            "hex": "#BFA969"
+          },
+          {
+            "code": "F541",
+            "color": "CHILLED CHARDONNAY",
+            "hex": "#E2CC87"
+          },
+          {
+            "code": "F581",
+            "color": "GOLD MIST",
+            "hex": "#EEE3C2"
+          },
+          {
+            "code": "F702",
+            "color": "TEA LEAF",
+            "hex": "#64604A"
+          },
+          {
+            "code": "F642",
+            "color": "SWEET PICKLE",
+            "hex": "#A3966B"
+          },
+          {
+            "code": "F602",
+            "color": "GREEN PEAR",
+            "hex": "#C3B78D"
+          },
+          {
+            "code": "F572",
+            "color": "PAMPAS",
+            "hex": "#DDD6AD"
+          },
+          {
+            "code": "F512",
+            "color": "PICKLING SPICE",
+            "hex": "#9A8949"
+          },
+          {
+            "code": "F552",
+            "color": "SUMMER CHARTREUSE",
+            "hex": "#C8AD5F"
+          },
+          {
+            "code": "F551",
+            "color": "TANGY FLAVOR",
+            "hex": "#D5BE79"
+          },
+          {
+            "code": "F562",
+            "color": "AUTUMN FERN",
+            "hex": "#E9E09F"
+          },
+          {
+            "code": "F701",
+            "color": "WILDERNESS TRAIL",
+            "hex": "#8C835C"
+          },
+          {
+            "code": "F651",
+            "color": "HAZY VALLEY",
+            "hex": "#C4B795"
+          },
+          {
+            "code": "F561",
+            "color": "JASMINE TEA",
+            "hex": "#EAE5C6"
+          },
+          {
+            "code": "F662",
+            "color": "OLIVE WOOD",
+            "hex": "#847C5D"
+          },
+          {
+            "code": "F661",
+            "color": "HERB TEA",
+            "hex": "#B8AC83"
+          },
+          {
+            "code": "F531",
+            "color": "LIME TART",
+            "hex": "#D1C68D"
+          },
+          {
+            "code": "F601",
+            "color": "PEELED CUCUMBER",
+            "hex": "#E2DAB3"
+          },
+          {
+            "code": "F681",
+            "color": "AFRICA",
+            "hex": "#958F62"
+          },
+          {
+            "code": "F612",
+            "color": "RICE PADDY",
+            "hex": "#D2CD8F"
+          },
+          {
+            "code": "F592",
+            "color": "GARDEN MOSS",
+            "hex": "#D4D0B1"
+          },
+          {
+            "code": "F591",
+            "color": "DRIED LICHEN",
+            "hex": "#DEDDC5"
+          },
+          {
+            "code": "F691",
+            "color": "GROOVY GREEN",
+            "hex": "#858758"
+          },
+          {
+            "code": "F632",
+            "color": "BURNISHED GREEN",
+            "hex": "#BDBB82"
+          },
+          {
+            "code": "F631",
+            "color": "SHIMMERING GREEN",
+            "hex": "#E3DEA4"
+          },
+          {
+            "code": "F571",
+            "color": "GREEN GRAPES",
+            "hex": "#E2E0BE"
+          },
+          {
+            "code": "F692",
+            "color": "JUNE MOSS",
+            "hex": "#71744A"
+          },
+          {
+            "code": "F622",
+            "color": "BASIC LIME",
+            "hex": "#D3D79F"
+          },
+          {
+            "code": "F611",
+            "color": "NETTLE",
+            "hex": "#DAD8A6"
+          },
+          {
+            "code": "F621",
+            "color": "JUICY HONEYDEW",
+            "hex": "#E0E1B4"
+          },
+          {
+            "code": "F672",
+            "color": "BAMBOO JUNGLE",
+            "hex": "#717154"
+          },
+          {
+            "code": "F671",
+            "color": "EXPEDITION",
+            "hex": "#A19C7B"
+          },
+          {
+            "code": "F772",
+            "color": "SPRIG OF SAGE",
+            "hex": "#C0BFA0"
+          },
+          {
+            "code": "F771",
+            "color": "FERN BREEZE",
+            "hex": "#D5D5C1"
+          },
+          {
+            "code": "F682",
+            "color": "CAPER",
+            "hex": "#74764F"
+          },
+          {
+            "code": "F751",
+            "color": "KIWI",
+            "hex": "#BDC194"
+          },
+          {
+            "code": "F782",
+            "color": "CALIFORNIA AVOCADO",
+            "hex": "#C3C6A5"
+          },
+          {
+            "code": "F761",
+            "color": "MELON EXTRACT",
+            "hex": "#DAE6BC"
+          },
+          {
+            "code": "F712",
+            "color": "YEW HEDGE",
+            "hex": "#646851"
+          },
+          {
+            "code": "F711",
+            "color": "CAVERN MOSS",
+            "hex": "#7A805A"
+          },
+          {
+            "code": "F752",
+            "color": "RETRO LIME",
+            "hex": "#989D66"
+          },
+          {
+            "code": "F792",
+            "color": "CELERY STICK",
+            "hex": "#D5D8B0"
+          },
+          {
+            "code": "F722",
+            "color": "ORGANIC GARDEN",
+            "hex": "#64714E"
+          },
+          {
+            "code": "F742",
+            "color": "BAMBOO FOREST",
+            "hex": "#788C56"
+          },
+          {
+            "code": "F721",
+            "color": "FRESH MOSS",
+            "hex": "#889466"
+          },
+          {
+            "code": "F781",
+            "color": "HYDRANGEA FLORET",
+            "hex": "#D7DEC4"
+          },
+          {
+            "code": "F862",
+            "color": "FROSTED IVY",
+            "hex": "#7D8A78"
+          },
+          {
+            "code": "F861",
+            "color": "NATURAL SURROUNDINGS",
+            "hex": "#9AA191"
+          },
+          {
+            "code": "F842",
+            "color": "CELADON GREEN",
+            "hex": "#B5C2A8"
+          },
+          {
+            "code": "F851",
+            "color": "BIRCH LEAF",
+            "hex": "#B9C6A8"
+          },
+          {
+            "code": "F902",
+            "color": "BONSAI TREE",
+            "hex": "#506A4E"
+          },
+          {
+            "code": "F901",
+            "color": "BASIL LEAF",
+            "hex": "#637758"
+          },
+          {
+            "code": "F741",
+            "color": "MINT LIME",
+            "hex": "#ABC191"
+          },
+          {
+            "code": "F791",
+            "color": "FOREST LIGHT",
+            "hex": "#E1E9D1"
+          },
+          {
+            "code": "F732",
+            "color": "HOMEGROWN HERBS",
+            "hex": "#5E8447"
+          },
+          {
+            "code": "F731",
+            "color": "DEWEY GRASS",
+            "hex": "#A5BB86"
+          },
+          {
+            "code": "F832",
+            "color": "WILD LETTUCE",
+            "hex": "#B1CDAA"
+          },
+          {
+            "code": "F822",
+            "color": "COLONIAL GREEN",
+            "hex": "#BFD5B5"
+          },
+          {
+            "code": "F892",
+            "color": "JUNGLE VINE",
+            "hex": "#536F58"
+          },
+          {
+            "code": "F762",
+            "color": "APPLE GREEN",
+            "hex": "#9ABE89"
+          },
+          {
+            "code": "F841",
+            "color": "GREEN WHISPER",
+            "hex": "#D8E1CF"
+          },
+          {
+            "code": "F801",
+            "color": "TOUCH OF LIME",
+            "hex": "#E3E8DD"
+          },
+          {
+            "code": "F911",
+            "color": "ALPINE VALLEY",
+            "hex": "#425648"
+          },
+          {
+            "code": "F872",
+            "color": "BITTER ARUGULA",
+            "hex": "#6C896F"
+          },
+          {
+            "code": "F891",
+            "color": "WILD THYME",
+            "hex": "#85A285"
+          },
+          {
+            "code": "F852",
+            "color": "SPANISH SAGE",
+            "hex": "#ACBBA1"
+          },
+          {
+            "code": "F912",
+            "color": "BURNT OLIVE",
+            "hex": "#44504A"
+          },
+          {
+            "code": "F882",
+            "color": "CULINARY HERBS",
+            "hex": "#596C5F"
+          },
+          {
+            "code": "F881",
+            "color": "BAYFRONT PALM",
+            "hex": "#8EA192"
+          },
+          {
+            "code": "F802",
+            "color": "FROSTY PINE",
+            "hex": "#D9E6D6"
+          },
+          {
+            "code": "E892",
+            "color": "TROPICAL FOLIAGE",
+            "hex": "#3C5E4D"
+          },
+          {
+            "code": "F871",
+            "color": "DRIED MINT",
+            "hex": "#87A38A"
+          },
+          {
+            "code": "E891",
+            "color": "WHEATGRASS",
+            "hex": "#82B78C"
+          },
+          {
+            "code": "F821",
+            "color": "BUDDING GREEN",
+            "hex": "#CAE1C6"
+          },
+          {
+            "code": "E872",
+            "color": "DANDELION GREEN",
+            "hex": "#4B8E5C"
+          },
+          {
+            "code": "E881",
+            "color": "IGUANA",
+            "hex": "#95D3A2"
+          },
+          {
+            "code": "E871",
+            "color": "APPLE MARTINI",
+            "hex": "#B1E0B1"
+          },
+          {
+            "code": "E821",
+            "color": "POLISHED JADE",
+            "hex": "#BBDCBC"
+          },
+          {
+            "code": "E901",
+            "color": "COOL DILL",
+            "hex": "#3D7B5F"
+          },
+          {
+            "code": "E822",
+            "color": "CAESAR SALAD",
+            "hex": "#9ACBA9"
+          },
+          {
+            "code": "E831",
+            "color": "CALM GREEN",
+            "hex": "#BDD4BC"
+          },
+          {
+            "code": "F831",
+            "color": "LIGHT PISTACHIO",
+            "hex": "#D2E2D0"
+          },
+          {
+            "code": "E882",
+            "color": "LUCKY SHAMROCK",
+            "hex": "#3F8968"
+          },
+          {
+            "code": "E812",
+            "color": "BOTANICAL BLISS",
+            "hex": "#9FCBB1"
+          },
+          {
+            "code": "E841",
+            "color": "GREEN ICING",
+            "hex": "#B6DBC2"
+          },
+          {
+            "code": "E811",
+            "color": "AIRY MINT",
+            "hex": "#D1EAD6"
+          },
+          {
+            "code": "E902",
+            "color": "DEEP SPRUCE",
+            "hex": "#38544A"
+          },
+          {
+            "code": "E842",
+            "color": "FRESH APPEAL",
+            "hex": "#84BB9B"
+          },
+          {
+            "code": "E832",
+            "color": "GREEN COUNTRYSIDE",
+            "hex": "#A7CDB4"
+          },
+          {
+            "code": "F812",
+            "color": "JULEP",
+            "hex": "#CEE6D8"
+          },
+          {
+            "code": "D912",
+            "color": "BLACK SPRUCE",
+            "hex": "#3B5354"
+          },
+          {
+            "code": "E912",
+            "color": "AMAZON",
+            "hex": "#3B5653"
+          },
+          {
+            "code": "E852",
+            "color": "WINCHESTER GREEN",
+            "hex": "#88A698"
+          },
+          {
+            "code": "E851",
+            "color": "BLEACHED CYPRESS",
+            "hex": "#B1CABD"
+          },
+          {
+            "code": "E911",
+            "color": "ARGYLL",
+            "hex": "#336457"
+          },
+          {
+            "code": "E862",
+            "color": "EMERALD STREAM",
+            "hex": "#5E9D87"
+          },
+          {
+            "code": "E861",
+            "color": "FRAGRANT HERBS",
+            "hex": "#80B19A"
+          },
+          {
+            "code": "F811",
+            "color": "CREAMY MINT",
+            "hex": "#DAE9DF"
+          },
+          {
+            "code": "E721",
+            "color": "SPEARMINT LEAF",
+            "hex": "#74B9AE"
+          },
+          {
+            "code": "E752",
+            "color": "BEACH TOY",
+            "hex": "#69CABA"
+          },
+          {
+            "code": "E782",
+            "color": "GREEN SURF",
+            "hex": "#ABD9C8"
+          },
+          {
+            "code": "E781",
+            "color": "JADE SEA",
+            "hex": "#C2E2D5"
+          },
+          {
+            "code": "E722",
+            "color": "TAHITIAN GREEN",
+            "hex": "#64A7A1"
+          },
+          {
+            "code": "E751",
+            "color": "POLISHED TURQUOISE",
+            "hex": "#96DFD3"
+          },
+          {
+            "code": "E792",
+            "color": "MISTED VISTA",
+            "hex": "#B7DFD4"
+          },
+          {
+            "code": "E791",
+            "color": "SILVERY GREEN",
+            "hex": "#CFE3DC"
+          },
+          {
+            "code": "D902",
+            "color": "FATHOMS BELOW",
+            "hex": "#3E595E"
+          },
+          {
+            "code": "D911",
+            "color": "VIRTUE",
+            "hex": "#749999"
+          },
+          {
+            "code": "E732",
+            "color": "GARDEN POND",
+            "hex": "#75A6A3"
+          },
+          {
+            "code": "E731",
+            "color": "SOOTHING EUCALYPTUS",
+            "hex": "#84BCB9"
+          },
+          {
+            "code": "E712",
+            "color": "TROPICAL LAGOON",
+            "hex": "#1B7A7B"
+          },
+          {
+            "code": "E742",
+            "color": "VIVID TURQUOISE",
+            "hex": "#56BCBE"
+          },
+          {
+            "code": "E762",
+            "color": "JAMAICAN DREAM",
+            "hex": "#A2D5D3"
+          },
+          {
+            "code": "E771",
+            "color": "ALWAYS AQUA",
+            "hex": "#C0E2DD"
+          },
+          {
+            "code": "E711",
+            "color": "CARIBBEAN SPLASH",
+            "hex": "#0A8B8A"
+          },
+          {
+            "code": "D861",
+            "color": "DEEP TURQUOISE",
+            "hex": "#56AAAD"
+          },
+          {
+            "code": "D832",
+            "color": "BALMY WATERS",
+            "hex": "#8EC0C1"
+          },
+          {
+            "code": "E761",
+            "color": "VINTAGE AQUA",
+            "hex": "#B7E0DC"
+          },
+          {
+            "code": "D892",
+            "color": "TEMPEST",
+            "hex": "#3B6B71"
+          },
+          {
+            "code": "D852",
+            "color": "PERFECT PEACOCK",
+            "hex": "#358D94"
+          },
+          {
+            "code": "D822",
+            "color": "VENICE ESCAPE",
+            "hex": "#80B7B7"
+          },
+          {
+            "code": "D821",
+            "color": "AQUA WAVE",
+            "hex": "#A6DADC"
+          },
+          {
+            "code": "D901",
+            "color": "LOMBARDY LAKE",
+            "hex": "#3A848E"
+          },
+          {
+            "code": "D842",
+            "color": "ESTUARY",
+            "hex": "#729CA2"
+          },
+          {
+            "code": "D841",
+            "color": "BLUE JUNIPER",
+            "hex": "#96B6B9"
+          },
+          {
+            "code": "E772",
+            "color": "TREVI FOUNTAIN",
+            "hex": "#B2D8D7"
+          },
+          {
+            "code": "D872",
+            "color": "SCUBA",
+            "hex": "#24848D"
+          },
+          {
+            "code": "D881",
+            "color": "BLUE SAGE",
+            "hex": "#7FA9B0"
+          },
+          {
+            "code": "D871",
+            "color": "PARADISE WATERS",
+            "hex": "#7BAFB6"
+          },
+          {
+            "code": "D831",
+            "color": "FLYING HIGH",
+            "hex": "#A9D2D3"
+          },
+          {
+            "code": "D862",
+            "color": "PEACOCK PLUME",
+            "hex": "#138A96"
+          },
+          {
+            "code": "D812",
+            "color": "GLACIAL WATERS",
+            "hex": "#8DC7CB"
+          },
+          {
+            "code": "D811",
+            "color": "POLAR BLUE",
+            "hex": "#A7D5D9"
+          },
+          {
+            "code": "E802",
+            "color": "SEA GLASS",
+            "hex": "#D1E6E5"
+          },
+          {
+            "code": "D882",
+            "color": "BASIC TEAL",
+            "hex": "#267584"
+          },
+          {
+            "code": "E741",
+            "color": "CLASSIC TURQUOISE",
+            "hex": "#81CCD3"
+          },
+          {
+            "code": "D801",
+            "color": "EASTERN PROMISE",
+            "hex": "#BCE1E5"
+          },
+          {
+            "code": "E801",
+            "color": "WINTER FROST",
+            "hex": "#D9E6E7"
+          }
+        ]
+      },
+      {
+        "familyName": "BLUE",
+        "familyColor": "#5995A1",
+        "familyAll": [
+          {
+            "code": "D891",
+            "color": "PACIFIC SEACOAST",
+            "hex": "#5995A1"
+          },
+          {
+            "code": "D851",
+            "color": "WATER OASIS",
+            "hex": "#72B0B8"
+          },
+          {
+            "code": "D802",
+            "color": "BAHAMAS BREEZE",
+            "hex": "#A8D0D5"
+          },
+          {
+            "code": "D761",
+            "color": "DROP OF TEAL",
+            "hex": "#B5D8DE"
+          },
+          {
+            "code": "D732",
+            "color": "ARROYO",
+            "hex": "#357B91"
+          },
+          {
+            "code": "D742",
+            "color": "TIBER RIVER",
+            "hex": "#4C8699"
+          },
+          {
+            "code": "D762",
+            "color": "INTRICATE AQUA",
+            "hex": "#90B2BA"
+          },
+          {
+            "code": "D771",
+            "color": "AQUA ICE",
+            "hex": "#D4E5E7"
+          },
+          {
+            "code": "D712",
+            "color": "NIGHT TRAIN",
+            "hex": "#477281"
+          },
+          {
+            "code": "D752",
+            "color": "ENDLESS RAIN",
+            "hex": "#8DA7B0"
+          },
+          {
+            "code": "D751",
+            "color": "BEACH WATER",
+            "hex": "#A5BAC1"
+          },
+          {
+            "code": "D791",
+            "color": "BLUE LUSTRE",
+            "hex": "#CCDFE4"
+          },
+          {
+            "code": "D722",
+            "color": "STORM",
+            "hex": "#447689"
+          },
+          {
+            "code": "D711",
+            "color": "TOTALLY SCIENTIFIC",
+            "hex": "#7C95A0"
+          },
+          {
+            "code": "D772",
+            "color": "CHILLY MORNING",
+            "hex": "#B9CED3"
+          },
+          {
+            "code": "C821",
+            "color": "SICILIAN SKY",
+            "hex": "#CFE2E6"
+          },
+          {
+            "code": "C882",
+            "color": "TROPIC",
+            "hex": "#42829D"
+          },
+          {
+            "code": "D731",
+            "color": "YACHT CLUB",
+            "hex": "#598FA4"
+          },
+          {
+            "code": "C832",
+            "color": "COOL VISTA",
+            "hex": "#AECEDA"
+          },
+          {
+            "code": "D792",
+            "color": "SUBTLE BREEZE",
+            "hex": "#C1DADF"
+          },
+          {
+            "code": "C862",
+            "color": "BIT OF SAPPHIRE",
+            "hex": "#51B2D3"
+          },
+          {
+            "code": "C871",
+            "color": "SAILING DAY",
+            "hex": "#99D4EA"
+          },
+          {
+            "code": "C861",
+            "color": "CASUAL BLUE",
+            "hex": "#A6D7EB"
+          },
+          {
+            "code": "D782",
+            "color": "CASCADE FALLS",
+            "hex": "#C1DAE2"
+          },
+          {
+            "code": "C892",
+            "color": "BLUE SPLASH",
+            "hex": "#2A7DA0"
+          },
+          {
+            "code": "C872",
+            "color": "VINTAGE SAPPHIRE",
+            "hex": "#56A3BF"
+          },
+          {
+            "code": "C831",
+            "color": "SUMMER SHOWER",
+            "hex": "#BAD3DD"
+          },
+          {
+            "code": "C822",
+            "color": "BLISSFUL BLUE",
+            "hex": "#BBD8E1"
+          },
+          {
+            "code": "C772",
+            "color": "SEASIDE RETREAT",
+            "hex": "#6D9CB6"
+          },
+          {
+            "code": "C881",
+            "color": "BY THE SEA",
+            "hex": "#7DABC0"
+          },
+          {
+            "code": "D741",
+            "color": "BAROQUE",
+            "hex": "#95BDCD"
+          },
+          {
+            "code": "D781",
+            "color": "CREAMY BLUE",
+            "hex": "#CCDEE5"
+          },
+          {
+            "code": "C902",
+            "color": "WIND SURFING",
+            "hex": "#356C8F"
+          },
+          {
+            "code": "C901",
+            "color": "BUBBLING BROOK",
+            "hex": "#3A81A1"
+          },
+          {
+            "code": "C852",
+            "color": "CALM SPRING",
+            "hex": "#76AFCB"
+          },
+          {
+            "code": "C851",
+            "color": "ALASKAN SKY",
+            "hex": "#A1CEE5"
+          },
+          {
+            "code": "C891",
+            "color": "SERENE STREAM",
+            "hex": "#40A4CF"
+          },
+          {
+            "code": "C782",
+            "color": "AZURE POOL",
+            "hex": "#65B0D7"
+          },
+          {
+            "code": "C842",
+            "color": "SAIL AWAY",
+            "hex": "#7EB6D3"
+          },
+          {
+            "code": "C771",
+            "color": "WATERY BLUE",
+            "hex": "#A9C9D9"
+          },
+          {
+            "code": "C912",
+            "color": "ARCTIC NIGHT",
+            "hex": "#3C5468"
+          },
+          {
+            "code": "C911",
+            "color": "MARINE BAY",
+            "hex": "#477088"
+          },
+          {
+            "code": "C762",
+            "color": "SWEDISH BLUE",
+            "hex": "#648195"
+          },
+          {
+            "code": "D721",
+            "color": "WINDING RIVER",
+            "hex": "#839EAC"
+          },
+          {
+            "code": "C711",
+            "color": "ATLANTIC SEA",
+            "hex": "#477190"
+          },
+          {
+            "code": "C761",
+            "color": "FAVORITE JEANS",
+            "hex": "#89ADC1"
+          },
+          {
+            "code": "C841",
+            "color": "CALICO BLUE",
+            "hex": "#A6CEE3"
+          },
+          {
+            "code": "C781",
+            "color": "AZURE MIST",
+            "hex": "#AFD9F0"
+          },
+          {
+            "code": "C712",
+            "color": "SAXOPHONE SOLO",
+            "hex": "#40546B"
+          },
+          {
+            "code": "C742",
+            "color": "BEACH VIEW",
+            "hex": "#4B748D"
+          },
+          {
+            "code": "C741",
+            "color": "BLUE DUST",
+            "hex": "#7D9AAE"
+          },
+          {
+            "code": "C812",
+            "color": "SOFT CHAMBRAY",
+            "hex": "#A6C3D7"
+          },
+          {
+            "code": "C721",
+            "color": "BEYOND THE SEA",
+            "hex": "#366797"
+          },
+          {
+            "code": "C792",
+            "color": "SUMMER OASIS",
+            "hex": "#85BADE"
+          },
+          {
+            "code": "C791",
+            "color": "BABY BOY",
+            "hex": "#ABD0E9"
+          },
+          {
+            "code": "C811",
+            "color": "AIRY BLUE",
+            "hex": "#D0DFE9"
+          },
+          {
+            "code": "C752",
+            "color": "RIPPED JEANS",
+            "hex": "#517998"
+          },
+          {
+            "code": "C731",
+            "color": "INSPIRATION BLUE",
+            "hex": "#76A4CB"
+          },
+          {
+            "code": "C802",
+            "color": "WASHED AWAY",
+            "hex": "#91B9D6"
+          },
+          {
+            "code": "C801",
+            "color": "SCANDINAVIA",
+            "hex": "#B3D0E4"
+          },
+          {
+            "code": "C722",
+            "color": "LUXURIOUS BLUE",
+            "hex": "#355E87"
+          },
+          {
+            "code": "C732",
+            "color": "TRIUMPH BLUE",
+            "hex": "#3F73A0"
+          },
+          {
+            "code": "C751",
+            "color": "NANTUCKET SHORE",
+            "hex": "#7BA3C4"
+          },
+          {
+            "code": "B871",
+            "color": "BABY BOOTS",
+            "hex": "#B1CAE3"
+          },
+          {
+            "code": "B902",
+            "color": "AUTHENTIC NAVY",
+            "hex": "#465873"
+          },
+          {
+            "code": "B901",
+            "color": "HEARTBROKEN",
+            "hex": "#567494"
+          },
+          {
+            "code": "B872",
+            "color": "BLUE BALLAD",
+            "hex": "#8FAAC4"
+          },
+          {
+            "code": "B861",
+            "color": "RAIN REFLECTION",
+            "hex": "#B4C6DB"
+          },
+          {
+            "code": "B912",
+            "color": "BLUE UNIFORM",
+            "hex": "#3B4E6E"
+          },
+          {
+            "code": "B911",
+            "color": "ATLAS BLUE",
+            "hex": "#3E5982"
+          },
+          {
+            "code": "B862",
+            "color": "MAD ABOUT BLUE",
+            "hex": "#95ABC7"
+          },
+          {
+            "code": "B881",
+            "color": "DELICATE BLUE",
+            "hex": "#A2BCDC"
+          },
+          {
+            "code": "B892",
+            "color": "ATLANTIC OCEAN",
+            "hex": "#6480A4"
+          },
+          {
+            "code": "B891",
+            "color": "LAKE PERIWINKLE",
+            "hex": "#7D9DC5"
+          },
+          {
+            "code": "B882",
+            "color": "NEVER BLUE",
+            "hex": "#8BA7CC"
+          }
+        ]
+      },
+      {
+        "familyName": "PURPLE",
+        "familyColor": "#4F5873",
+        "familyAll": [
+          {
+            "code": "B711",
+            "color": "DEEP VELVET",
+            "hex": "#4F5873"
+          },
+          {
+            "code": "B762",
+            "color": "SUBTERRANEAN",
+            "hex": "#717C95"
+          },
+          {
+            "code": "B771",
+            "color": "SEA LAVENDER",
+            "hex": "#919EB8"
+          },
+          {
+            "code": "B852",
+            "color": "BLUE TWINKLE",
+            "hex": "#C5CEDD"
+          },
+          {
+            "code": "B772",
+            "color": "DELIRIOUS",
+            "hex": "#6E7997"
+          },
+          {
+            "code": "B792",
+            "color": "HAILSTORM",
+            "hex": "#919BB4"
+          },
+          {
+            "code": "B791",
+            "color": "SILVER FALLS",
+            "hex": "#BBC3D5"
+          },
+          {
+            "code": "B851",
+            "color": "EASTERN SKY",
+            "hex": "#D4DBE6"
+          },
+          {
+            "code": "B722",
+            "color": "BEWITCHED",
+            "hex": "#5C6081"
+          },
+          {
+            "code": "B721",
+            "color": "BLUEBERRY SAUCE",
+            "hex": "#646A94"
+          },
+          {
+            "code": "B802",
+            "color": "SLOW DANCE",
+            "hex": "#9AABD4"
+          },
+          {
+            "code": "B801",
+            "color": "APRIL MORNING",
+            "hex": "#B8C5E3"
+          },
+          {
+            "code": "B712",
+            "color": "INDIA INK",
+            "hex": "#4C4F63"
+          },
+          {
+            "code": "B761",
+            "color": "ROMANTIC RAVENNA",
+            "hex": "#8B94AA"
+          },
+          {
+            "code": "B842",
+            "color": "MYSTICAL ROME",
+            "hex": "#BABED0"
+          },
+          {
+            "code": "B841",
+            "color": "TWILIGHT SPELL",
+            "hex": "#CED0DD"
+          },
+          {
+            "code": "B752",
+            "color": "LAVENDER BLOSSOM",
+            "hex": "#7B7FB1"
+          },
+          {
+            "code": "B782",
+            "color": "LAVENDER GLOW",
+            "hex": "#8E92C1"
+          },
+          {
+            "code": "B812",
+            "color": "PERIWINKLE BLOOM",
+            "hex": "#B3BAD8"
+          },
+          {
+            "code": "B811",
+            "color": "HEAVENLY",
+            "hex": "#C0C8E2"
+          },
+          {
+            "code": "B742",
+            "color": "PURPLE",
+            "hex": "#6A668F"
+          },
+          {
+            "code": "B751",
+            "color": "BEDTIME STORY",
+            "hex": "#9AA0C7"
+          },
+          {
+            "code": "B781",
+            "color": "JULIETTE",
+            "hex": "#C6C8E4"
+          },
+          {
+            "code": "A822",
+            "color": "RAIN SHIMMER",
+            "hex": "#D1D1E3"
+          },
+          {
+            "code": "B731",
+            "color": "VIOLET VELVET",
+            "hex": "#8E92BA"
+          },
+          {
+            "code": "B741",
+            "color": "ZODIAC",
+            "hex": "#9FA1C1"
+          },
+          {
+            "code": "B822",
+            "color": "GENTLE SPIRIT",
+            "hex": "#B9BBD5"
+          },
+          {
+            "code": "B821",
+            "color": "SOAPY WATER",
+            "hex": "#C7C7DE"
+          },
+          {
+            "code": "B732",
+            "color": "APHRODISIAC",
+            "hex": "#6B648A"
+          },
+          {
+            "code": "A852",
+            "color": "GINGER LILY",
+            "hex": "#B5ADD3"
+          },
+          {
+            "code": "A842",
+            "color": "LADIES MANTLE",
+            "hex": "#C5BEDE"
+          },
+          {
+            "code": "A861",
+            "color": "FRAGRANT POTPOURRI",
+            "hex": "#C7C3DB"
+          },
+          {
+            "code": "A902",
+            "color": "REGAL PURPLE",
+            "hex": "#6E607D"
+          },
+          {
+            "code": "A862",
+            "color": "FORTNIGHT LILY",
+            "hex": "#A29EBA"
+          },
+          {
+            "code": "B832",
+            "color": "MISTY AIR",
+            "hex": "#BEBFCC"
+          },
+          {
+            "code": "B831",
+            "color": "SICILIAN BEAUTY",
+            "hex": "#D4D5DD"
+          },
+          {
+            "code": "A901",
+            "color": "JUPITER",
+            "hex": "#8A8297"
+          },
+          {
+            "code": "A832",
+            "color": "BOYSENBERRY CREAM",
+            "hex": "#C1BDD2"
+          },
+          {
+            "code": "A831",
+            "color": "LILAC SHADOW",
+            "hex": "#CFCFDA"
+          },
+          {
+            "code": "A821",
+            "color": "COLORADO DAWN",
+            "hex": "#DDDDEA"
+          },
+          {
+            "code": "A712",
+            "color": "RICH SARI",
+            "hex": "#5D4A6F"
+          },
+          {
+            "code": "A711",
+            "color": "NAPA",
+            "hex": "#736484"
+          },
+          {
+            "code": "A761",
+            "color": "FRUIT PUNCH",
+            "hex": "#B199C3"
+          },
+          {
+            "code": "A771",
+            "color": "IMPETUOUS",
+            "hex": "#D2C0DE"
+          },
+          {
+            "code": "A722",
+            "color": "SUPER VIOLET",
+            "hex": "#6E5481"
+          },
+          {
+            "code": "A721",
+            "color": "POETS PURPLE",
+            "hex": "#856490"
+          },
+          {
+            "code": "A772",
+            "color": "CANDIED HEARTS",
+            "hex": "#C3ACD2"
+          },
+          {
+            "code": "A812",
+            "color": "TWILIGHT MAUVE",
+            "hex": "#D2C7D8"
+          },
+          {
+            "code": "A882",
+            "color": "MYSTIC PETALS",
+            "hex": "#AA99B8"
+          },
+          {
+            "code": "A881",
+            "color": "GENTLE MAUVE",
+            "hex": "#B7A9BF"
+          },
+          {
+            "code": "A802",
+            "color": "SWEET SCENT",
+            "hex": "#CEC0D6"
+          },
+          {
+            "code": "A811",
+            "color": "ITALIAN FANTASY",
+            "hex": "#D9D3E1"
+          },
+          {
+            "code": "A732",
+            "color": "SUCCULENT",
+            "hex": "#69476B"
+          },
+          {
+            "code": "A762",
+            "color": "WILD FRAGRANCE",
+            "hex": "#AB90BD"
+          },
+          {
+            "code": "A851",
+            "color": "FEBRUARY AMETHYST",
+            "hex": "#CAC0DF"
+          },
+          {
+            "code": "A801",
+            "color": "BUTTERFLY KISS",
+            "hex": "#D4CEDE"
+          },
+          {
+            "code": "A731",
+            "color": "PERSIAN ROSE",
+            "hex": "#95819A"
+          },
+          {
+            "code": "A872",
+            "color": "ELEGANT BOUTIQUE",
+            "hex": "#AA97B6"
+          },
+          {
+            "code": "A871",
+            "color": "SILK SCARF",
+            "hex": "#BEAFCA"
+          },
+          {
+            "code": "A791",
+            "color": "CLASSIC ROSE",
+            "hex": "#DCCEE6"
+          },
+          {
+            "code": "A752",
+            "color": "FRUIT SMOOTHIE",
+            "hex": "#9E7FA5"
+          },
+          {
+            "code": "A751",
+            "color": "FASHION PINK",
+            "hex": "#BAA3C2"
+          },
+          {
+            "code": "A792",
+            "color": "ENGLISH PRIMROSE",
+            "hex": "#C7B3D4"
+          },
+          {
+            "code": "A611",
+            "color": "SOFIA",
+            "hex": "#E1D3E6"
+          },
+          {
+            "code": "A742",
+            "color": "MIXED BERRY",
+            "hex": "#825887"
+          },
+          {
+            "code": "A741",
+            "color": "INDULGENCE",
+            "hex": "#B28BB9"
+          },
+          {
+            "code": "A782",
+            "color": "CRUSH",
+            "hex": "#CBABD0"
+          },
+          {
+            "code": "A781",
+            "color": "YOUTHFUL PINK",
+            "hex": "#D8C0DE"
+          },
+          {
+            "code": "A662",
+            "color": "BERRY BLOOM",
+            "hex": "#A68FA7"
+          },
+          {
+            "code": "A622",
+            "color": "STRAWBERRY LASSI",
+            "hex": "#BFA0BE"
+          },
+          {
+            "code": "A612",
+            "color": "SHADY PINK",
+            "hex": "#CBB7D0"
+          },
+          {
+            "code": "A602",
+            "color": "COURTSHIP",
+            "hex": "#D8C7DC"
+          },
+          {
+            "code": "A702",
+            "color": "CUPID",
+            "hex": "#7D5678"
+          },
+          {
+            "code": "A701",
+            "color": "FAVORITE THINGS",
+            "hex": "#AE77A5"
+          },
+          {
+            "code": "A642",
+            "color": "BERRY PUNCH",
+            "hex": "#C08EB2"
+          },
+          {
+            "code": "A651",
+            "color": "PINK TIARA",
+            "hex": "#DEC2DF"
+          },
+          {
+            "code": "A652",
+            "color": "HEAD OVER HEELS",
+            "hex": "#C098BA"
+          },
+          {
+            "code": "A691",
+            "color": "BLUSHING TULIP",
+            "hex": "#C4A1BD"
+          },
+          {
+            "code": "A631",
+            "color": "BOY CRAZY",
+            "hex": "#DCBFD8"
+          },
+          {
+            "code": "A601",
+            "color": "SHEER ROSE",
+            "hex": "#DED5E3"
+          },
+          {
+            "code": "A912",
+            "color": "MIDNIGHT BURGUNDY",
+            "hex": "#514449"
+          },
+          {
+            "code": "A911",
+            "color": "ROASTED BEET",
+            "hex": "#67575F"
+          },
+          {
+            "code": "A682",
+            "color": "BURGUNDY FROST",
+            "hex": "#8C7283"
+          },
+          {
+            "code": "A672",
+            "color": "MULBERRY MIST",
+            "hex": "#A593A3"
+          },
+          {
+            "code": "A892",
+            "color": "REAL RAISIN",
+            "hex": "#847685"
+          },
+          {
+            "code": "A891",
+            "color": "PLUM NOTION",
+            "hex": "#928397"
+          },
+          {
+            "code": "A841",
+            "color": "ALMOST DUSK",
+            "hex": "#CFC9D8"
+          }
+        ]
+      },
+      {
+        "familyName": "BROWNS",
+        "familyColor": "#57413C",
+        "familyAll": [
+          {
+            "code": "A502",
+            "color": "BURNT CLAY",
+            "hex": "#57413C"
+          },
+          {
+            "code": "G551",
+            "color": "CHOCOLATE TORTE",
+            "hex": "#6F5C57"
+          },
+          {
+            "code": "G691",
+            "color": "WESTERN ADOBE",
+            "hex": "#D5C9BF"
+          },
+          {
+            "code": "G701",
+            "color": "DRIED PLASTER",
+            "hex": "#E4D4C7"
+          },
+          {
+            "code": "D502",
+            "color": "SUMPTUOUS SPICE",
+            "hex": "#6A4538"
+          },
+          {
+            "code": "G621",
+            "color": "FINE LEATHER",
+            "hex": "#8D7265"
+          },
+          {
+            "code": "G641",
+            "color": "SPICED COCOA",
+            "hex": "#9D867A"
+          },
+          {
+            "code": "G681",
+            "color": "MANNEQUIN",
+            "hex": "#D0C1B4"
+          },
+          {
+            "code": "G521",
+            "color": "CATTAIL",
+            "hex": "#584A47"
+          },
+          {
+            "code": "G531",
+            "color": "CHOCOLATE INDULGENCE",
+            "hex": "#5D4D4B"
+          },
+          {
+            "code": "G631",
+            "color": "CHOCOLATE ALMOND",
+            "hex": "#918074"
+          },
+          {
+            "code": "G671",
+            "color": "MOUNTAIN CANYON",
+            "hex": "#C4B9AF"
+          },
+          {
+            "code": "G511",
+            "color": "BLACK BREAD",
+            "hex": "#4B4235"
+          },
+          {
+            "code": "G541",
+            "color": "BITTERSWEET BROWN",
+            "hex": "#5C514E"
+          },
+          {
+            "code": "G611",
+            "color": "COCOA TRUFFLE",
+            "hex": "#7C6A5E"
+          },
+          {
+            "code": "H651",
+            "color": "ALMOND BISQUE",
+            "hex": "#DBCDBC"
+          },
+          {
+            "code": "G561",
+            "color": "TONKA BEAN",
+            "hex": "#644F46"
+          },
+          {
+            "code": "G571",
+            "color": "ANCIENT SPICE",
+            "hex": "#6A4B3A"
+          },
+          {
+            "code": "D501",
+            "color": "MOCHA MADNESS",
+            "hex": "#7D5F4F"
+          },
+          {
+            "code": "D531",
+            "color": "RODEO",
+            "hex": "#B0927D"
+          },
+          {
+            "code": "G581",
+            "color": "FOAL",
+            "hex": "#714C3B"
+          },
+          {
+            "code": "D512",
+            "color": "CARAMEL NUT",
+            "hex": "#84644E"
+          },
+          {
+            "code": "D572",
+            "color": "CARAMELIZED",
+            "hex": "#AF8D72"
+          },
+          {
+            "code": "D541",
+            "color": "COFFEE CAKE",
+            "hex": "#B3967C"
+          },
+          {
+            "code": "D542",
+            "color": "CARAWAY SEED",
+            "hex": "#8E7662"
+          },
+          {
+            "code": "H561",
+            "color": "MOCHATINI",
+            "hex": "#BCA690"
+          },
+          {
+            "code": "D571",
+            "color": "CLASSIC SILK",
+            "hex": "#D8C2AA"
+          },
+          {
+            "code": "H641",
+            "color": "IRISH COFFEE",
+            "hex": "#DACDB9"
+          },
+          {
+            "code": "G501",
+            "color": "INCENSE STICK",
+            "hex": "#484338"
+          },
+          {
+            "code": "G601",
+            "color": "HITCHING POST",
+            "hex": "#796C60"
+          },
+          {
+            "code": "G651",
+            "color": "BOHEMIAN EARTH",
+            "hex": "#8E8174"
+          },
+          {
+            "code": "H581",
+            "color": "COFFEE HOUSE",
+            "hex": "#B5A89C"
+          },
+          {
+            "code": "G591",
+            "color": "LEATHER SADDLE",
+            "hex": "#7C644E"
+          },
+          {
+            "code": "H501",
+            "color": "COWBOY HAT",
+            "hex": "#918172"
+          },
+          {
+            "code": "G661",
+            "color": "MOCHA MOUSSE",
+            "hex": "#AAA095"
+          },
+          {
+            "code": "H601",
+            "color": "YORKSHIRE TAN",
+            "hex": "#C2B29E"
+          },
+          {
+            "code": "H511",
+            "color": "SLEEPING CABIN",
+            "hex": "#988874"
+          },
+          {
+            "code": "H531",
+            "color": "ICED MOCHA",
+            "hex": "#B9A791"
+          },
+          {
+            "code": "H571",
+            "color": "COTTAGE STONE",
+            "hex": "#B8AB9B"
+          },
+          {
+            "code": "H631",
+            "color": "BURIED IN SAND",
+            "hex": "#CEC3B6"
+          },
+          {
+            "code": "H521",
+            "color": "ROASTED MUSHROOM",
+            "hex": "#9F8B72"
+          },
+          {
+            "code": "H541",
+            "color": "KHAKI BROWN",
+            "hex": "#C0AD8C"
+          },
+          {
+            "code": "H551",
+            "color": "VANILLA LATTE",
+            "hex": "#C0AC93"
+          },
+          {
+            "code": "H611",
+            "color": "RANCH HOUSE",
+            "hex": "#CDBAA3"
+          },
+          {
+            "code": "H881",
+            "color": "DARK UMBER",
+            "hex": "#5E5D57"
+          },
+          {
+            "code": "H841",
+            "color": "AVIARY NEST",
+            "hex": "#9A9384"
+          },
+          {
+            "code": "H591",
+            "color": "URBAN GETAWAY",
+            "hex": "#BDB7AB"
+          },
+          {
+            "code": "H621",
+            "color": "DUSTY ROAD",
+            "hex": "#C9BCA7"
+          }
+        ]
+      },
+      {
+        "familyName": "GREYS",
+        "familyColor": "#A39C97",
+        "familyAll": [
+          {
+            "code": "G771",
+            "color": "HISTORIC MONUMENT",
+            "hex": "#A39C97"
+          },
+          {
+            "code": "H731",
+            "color": "KANGAROO PAWS",
+            "hex": "#C5C2C0"
+          },
+          {
+            "code": "H721",
+            "color": "BOARDWALK",
+            "hex": "#C9C6C3"
+          },
+          {
+            "code": "G721",
+            "color": "BROWN RICE",
+            "hex": "#D2CEC9"
+          },
+          {
+            "code": "H871",
+            "color": "SMOKEY EYES",
+            "hex": "#7F7D76"
+          },
+          {
+            "code": "H831",
+            "color": "LOST SPACE",
+            "hex": "#9B978F"
+          },
+          {
+            "code": "H801",
+            "color": "WARM ASHES",
+            "hex": "#B4B5AF"
+          },
+          {
+            "code": "H751",
+            "color": "KHAKI TAUPE",
+            "hex": "#C7C9C5"
+          },
+          {
+            "code": "H891",
+            "color": "CAVIAR DREAM",
+            "hex": "#4D5656"
+          },
+          {
+            "code": "H851",
+            "color": "UMBER STONE",
+            "hex": "#8C918C"
+          },
+          {
+            "code": "H791",
+            "color": "DIM GRAY",
+            "hex": "#B9BDBA"
+          },
+          {
+            "code": "H781",
+            "color": "WHITE GOLD",
+            "hex": "#BFC6C4"
+          },
+          {
+            "code": "G891",
+            "color": "TOASTED POPPYSEED",
+            "hex": "#4A4C4B"
+          },
+          {
+            "code": "G861",
+            "color": "CHIPPED GRANITE",
+            "hex": "#7F8385"
+          },
+          {
+            "code": "H821",
+            "color": "SERVING PLATTER",
+            "hex": "#9A9F9F"
+          },
+          {
+            "code": "H741",
+            "color": "SUGARED BRONZE",
+            "hex": "#C3C1BE"
+          },
+          {
+            "code": "H901",
+            "color": "KETTLE BLACK",
+            "hex": "#47535B"
+          },
+          {
+            "code": "H861",
+            "color": "PORPOISE GRAY",
+            "hex": "#7A8993"
+          },
+          {
+            "code": "H811",
+            "color": "SENSUAL SILVER",
+            "hex": "#9FA8AF"
+          },
+          {
+            "code": "H761",
+            "color": "BAY FOG",
+            "hex": "#C2C9CB"
+          },
+          {
+            "code": "G901",
+            "color": "LICORICE ROPE",
+            "hex": "#454749"
+          },
+          {
+            "code": "G851",
+            "color": "WHALE TAIL",
+            "hex": "#7C7E84"
+          },
+          {
+            "code": "G811",
+            "color": "DARK STERLING",
+            "hex": "#909397"
+          },
+          {
+            "code": "H771",
+            "color": "PLATINUM RING",
+            "hex": "#BEC3C6"
+          },
+          {
+            "code": "G791",
+            "color": "SHARK",
+            "hex": "#92959D"
+          },
+          {
+            "code": "G781",
+            "color": "DISCO BALL",
+            "hex": "#A9A5AA"
+          },
+          {
+            "code": "G741",
+            "color": "MAGIC MIRROR",
+            "hex": "#BDBBBD"
+          },
+          {
+            "code": "G731",
+            "color": "ASH ESSENCE",
+            "hex": "#C6C1C1"
+          },
+          {
+            "code": "H911",
+            "color": "ABYSS",
+            "hex": "#404046"
+          },
+          {
+            "code": "G841",
+            "color": "WARRIOR",
+            "hex": "#848289"
+          },
+          {
+            "code": "G831",
+            "color": "MESMERIZED",
+            "hex": "#908D8F"
+          },
+          {
+            "code": "G801",
+            "color": "PIGEON GRAY",
+            "hex": "#9F9B9E"
+          },
+          {
+            "code": "G911",
+            "color": "GRATE BLACK",
+            "hex": "#49474C"
+          },
+          {
+            "code": "G881",
+            "color": "SPACE",
+            "hex": "#615D5F"
+          },
+          {
+            "code": "G821",
+            "color": "FORLORN",
+            "hex": "#928988"
+          },
+          {
+            "code": "G761",
+            "color": "NATURAL ECHO",
+            "hex": "#B7ADAC"
+          },
+          {
+            "code": "G871",
+            "color": "GRAPHIC GRAY",
+            "hex": "#6A6664"
+          },
+          {
+            "code": "G751",
+            "color": "ALWAYS TAUPE",
+            "hex": "#BFB6B2"
+          },
+          {
+            "code": "G711",
+            "color": "BARELY MOCHA",
+            "hex": "#D7D0CA"
+          }
+        ]
+      },
+      {
+        "familyName": "WHITES",
+        "familyColor": "#EFDDCD",
+        "familyAll": [
+          {
+            "code": "J581",
+            "color": "KASHMIR BEIGE",
+            "hex": "#EFDDCD"
+          },
+          {
+            "code": "J591",
+            "color": "KAUAI BEACH",
+            "hex": "#EEDDCF"
+          },
+          {
+            "code": "J601",
+            "color": "BASIC BEIGE",
+            "hex": "#EFE1D4"
+          },
+          {
+            "code": "H701",
+            "color": "OLD LACE",
+            "hex": "#E8DED2"
+          },
+          {
+            "code": "J531",
+            "color": "TAHINI",
+            "hex": "#EDD9BE"
+          },
+          {
+            "code": "J571",
+            "color": "ALMOND CAKE",
+            "hex": "#EEDBC6"
+          },
+          {
+            "code": "J561",
+            "color": "SUGAR BEIGE",
+            "hex": "#F1DFCA"
+          },
+          {
+            "code": "J611",
+            "color": "BAKED CUSTARD",
+            "hex": "#EFE2D2"
+          },
+          {
+            "code": "J731",
+            "color": "FRENCH CANVAS",
+            "hex": "#E7E2D8"
+          },
+          {
+            "code": "J721",
+            "color": "MARBLE WHITE",
+            "hex": "#E8E3DB"
+          },
+          {
+            "code": "J751",
+            "color": "CANVAS",
+            "hex": "#EAE7E1"
+          },
+          {
+            "code": "J711",
+            "color": "WHITE",
+            "hex": "#EAEAE7"
+          },
+          {
+            "code": "H661",
+            "color": "STARCHED LINEN",
+            "hex": "#DBD3C8"
+          },
+          {
+            "code": "H681",
+            "color": "CREAM OF MUSHROOM",
+            "hex": "#E6DED2"
+          },
+          {
+            "code": "J641",
+            "color": "WHITESTONE",
+            "hex": "#E7E1D5"
+          },
+          {
+            "code": "J691",
+            "color": "HIMALAYA",
+            "hex": "#F0EADF"
+          },
+          {
+            "code": "J681",
+            "color": "SATIN IVORY",
+            "hex": "#EDE5D6"
+          },
+          {
+            "code": "J671",
+            "color": "BEACH PEARL",
+            "hex": "#EAE3D6"
+          },
+          {
+            "code": "J651",
+            "color": "CASHMERE WHITE",
+            "hex": "#EAE5D7"
+          },
+          {
+            "code": "J741",
+            "color": "SERENE WHITE",
+            "hex": "#EAE4DA"
+          },
+          {
+            "code": "J521",
+            "color": "GOLDEN OATS",
+            "hex": "#EADAC2"
+          },
+          {
+            "code": "J541",
+            "color": "PALE ALMOND",
+            "hex": "#EADEC9"
+          },
+          {
+            "code": "J661",
+            "color": "NATURAL CREAM",
+            "hex": "#F1E8D8"
+          },
+          {
+            "code": "J701",
+            "color": "SHAVED COCONUT",
+            "hex": "#F1EEE6"
+          },
+          {
+            "code": "H671",
+            "color": "SPICED SUGAR",
+            "hex": "#DED2BF"
+          },
+          {
+            "code": "J501",
+            "color": "OCTOBER MIST",
+            "hex": "#E0D7C7"
+          },
+          {
+            "code": "J621",
+            "color": "NATURAL WAX",
+            "hex": "#EAE1D0"
+          },
+          {
+            "code": "H691",
+            "color": "SOFT ECRU",
+            "hex": "#E5DFD3"
+          },
+          {
+            "code": "J511",
+            "color": "PARAFFIN WAX",
+            "hex": "#E5D9C3"
+          },
+          {
+            "code": "J551",
+            "color": "BLEACHED BLONDE",
+            "hex": "#EBDEC7"
+          },
+          {
+            "code": "J631",
+            "color": "SHEA BUTTER",
+            "hex": "#EAE5D4"
+          },
+          {
+            "code": "J761",
+            "color": "ALASKA",
+            "hex": "#E5E6E0"
+          },
+          {
+            "code": "J911",
+            "color": "LANOLIN",
+            "hex": "#D1D1C6"
+          },
+          {
+            "code": "J901",
+            "color": "SUBTLE BEIGE",
+            "hex": "#D6D5CE"
+          },
+          {
+            "code": "J891",
+            "color": "ORIGAMI",
+            "hex": "#D3D2CD"
+          },
+          {
+            "code": "J831",
+            "color": "CREAMY COCONUT",
+            "hex": "#E2E2DD"
+          },
+          {
+            "code": "J771",
+            "color": "BARLEY",
+            "hex": "#DEDDD7"
+          },
+          {
+            "code": "J781",
+            "color": "ICE CAVERN",
+            "hex": "#DEDFDB"
+          },
+          {
+            "code": "J851",
+            "color": "OAKLEAF HYDRANGEA",
+            "hex": "#DFE3E0"
+          },
+          {
+            "code": "J801",
+            "color": "WHITE BARN",
+            "hex": "#DEE1E0"
+          },
+          {
+            "code": "J881",
+            "color": "WISPY CLOUDS",
+            "hex": "#CFD7D8"
+          },
+          {
+            "code": "J871",
+            "color": "EVENING SILK",
+            "hex": "#DAE3E5"
+          },
+          {
+            "code": "J861",
+            "color": "WINTER BREEZE",
+            "hex": "#DDE7E7"
+          },
+          {
+            "code": "J791",
+            "color": "REGENCY WHITE",
+            "hex": "#E0E3E3"
+          },
+          {
+            "code": "H711",
+            "color": "GENESIS",
+            "hex": "#D4D4D6"
+          },
+          {
+            "code": "J821",
+            "color": "TUFTED FLEECE",
+            "hex": "#DDDDE0"
+          },
+          {
+            "code": "J811",
+            "color": "BLANK CANVAS",
+            "hex": "#DEDFE2"
+          },
+          {
+            "code": "J841",
+            "color": "LAMBS EAR",
+            "hex": "#E1DFDD"
+          }
+        ]
+      }
+    ]
+  }
+}

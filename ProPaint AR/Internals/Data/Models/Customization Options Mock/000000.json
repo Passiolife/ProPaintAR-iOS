@@ -1,0 +1,279 @@
+{
+  "ui_options": {
+    "font": {
+      "family": "MarkerFelt-Wide",
+      "size_offset": 0
+    },
+    "background_image": {
+      "systemIcon": null,
+      "url": "https://hips.hearstapps.com/clv.h-cdn.co/assets/17/36/1504821874-cute-burberry-room.jpg",
+      "tintColor": null
+    },
+    "method_icons": {
+      "lidar_icon": {
+        "systemIcon": null,
+        "url": "https://static.thenounproject.com/png/1417920-200.png",
+        "tintColor": "7AADDC"
+      },
+      "floorplan_icon": {
+        "systemIcon": null,
+        "url": "https://static.thenounproject.com/png/1403575-200.png",
+        "tintColor": "7AADDC"
+      },
+      "legacy_icon": {
+        "systemIcon": null,
+        "url": "https://floornco.com/wp-content/uploads/2021/09/Puzzle.png",
+        "tintColor": "7AADDC"
+      },
+      "shader_icon": {
+        "systemIcon": null,
+        "url": "https://cdn-icons-png.flaticon.com/512/101/101366.png",
+        "tintColor": "7AADDC"
+      },
+      "mlsdk_icon": {
+        "systemIcon": null,
+        "url": "https://static.thenounproject.com/png/1870030-200.png",
+        "tintColor": "7AADDC"
+      }
+    },
+    "button_icons": {
+      "hide_floorplan_unpainted_icon": {
+        "systemIcon": null,
+        "url": "https://icons.veryicon.com/png/o/internet--web/property-2/closed-eyes.png",
+        "tintColor": "7AADDC"
+      },
+      "show_floorplan_unpainted_icon": {
+        "systemIcon": null,
+        "url": "https://cdn-icons-png.flaticon.com/512/64/64943.png",
+        "tintColor": "7AADDC"
+      },
+      "shader_occlusions_icon": {
+        "systemIcon": null,
+        "url": "https://static.thenounproject.com/png/337917-200.png",
+        "tintColor": "7AADDC"
+      },
+      "shader_occlusion_color_trash_icon": {
+        "systemIcon": null,
+        "url": "https://static.thenounproject.com/png/927068-200.png",
+        "tintColor": "7AADDC"
+      },
+      "save_image_icon": {
+        "systemIcon": null,
+        "url": "https://cdn-icons-png.flaticon.com/512/25/25398.png",
+        "tintColor": "7AADDC"
+      },
+      "save_cart_image_icon": {
+        "systemIcon": null,
+        "url": "https://cdn-icons-png.flaticon.com/512/70/70021.png",
+        "tintColor": "7AADDC"
+      },
+      "reset_scene_icon": {
+        "systemIcon": null,
+        "url": "https://cdn-icons-png.flaticon.com/512/5307/5307970.png",
+        "tintColor": "7AADDC"
+      },
+      "home_icon": {
+        "systemIcon": null,
+        "url": "https://icons.iconarchive.com/icons/custom-icon-design/mono-general-3/512/home-icon.png",
+        "tintColor": "7AADDC"
+      },
+      "shopping_cart_icon": {
+        "systemIcon": null,
+        "url": "https://img.icons8.com/ios-glyphs/480/fast-cart.png",
+        "tintColor": "7AADDC"
+      },
+      "shader_occlusion_close_icon": {
+        "systemIcon": null,
+        "url": "https://d29fhpw069ctt2.cloudfront.net/icon/image/39219/preview.png",
+        "tintColor": "7AADDC"
+      },
+      "ML_Method_icons": {
+        "environment_icon": {
+          "systemIcon": null,
+          "url": "https://static.thenounproject.com/png/139337-200.png",
+          "tintColor": "7AADDC"
+        },
+        "surface_icon": {
+          "systemIcon": null,
+          "url": "https://static.thenounproject.com/png/4786929-200.png",
+          "tintColor": "7AADDC"
+        },
+        "abnormality_icon": {
+          "systemIcon": null,
+          "url": "https://static.thenounproject.com/png/240533-200.png",
+          "tintColor": "7AADDC"
+        }
+      },
+      "method_info_back_button_icon": {
+        "systemIcon": null,
+        "url": "https://d338t8kmirgyke.cloudfront.net/icons/icon_pngs/000/009/150/original/back.png",
+        "tintColor": "7AADDC"
+      },
+      "method_info_icon": {
+        "systemIcon": null,
+        "url": "https://static.thenounproject.com/png/3669085-200.png",
+        "tintColor": "7AADDC"
+      }
+    },
+    "colors": {
+      "button": {
+        "light": {
+          "color": "256389",
+          "opacity": 1
+        },
+        "dark": {
+          "color": "256389",
+          "opacity": 1
+        }
+      },
+      "button_text": {
+        "light": {
+          "color": "F3EEBA",
+          "opacity": 1
+        },
+        "dark": {
+          "color": "F3EEBA",
+          "opacity": 1
+        }
+      },
+      "frame_background": {
+        "light": {
+          "color": "171A32",
+          "opacity": 0.53
+        },
+        "dark": {
+          "color": "171A32",
+          "opacity": 0.53
+        }
+      },
+      "icon": {
+        "light": {
+          "color": "C39A8F",
+          "opacity": 1
+        },
+        "dark": {
+          "color": "C39A8F",
+          "opacity": 1
+        }
+      },
+      "icon_background": {
+        "light": {
+          "color": "6B729C",
+          "opacity": 0.5
+        },
+        "dark": {
+          "color": "6B729C",
+          "opacity": 0.5
+        }
+      },
+      "overlay_background": {
+        "light": {
+          "color": "171A32",
+          "opacity": 0.8
+        },
+        "dark": {
+          "color": "171A32",
+          "opacity": 0.8
+        }
+      },
+      "subframe_background": {
+        "light": {
+          "color": "171A32",
+          "opacity": 0.44
+        },
+        "dark": {
+          "color": "171A32",
+          "opacity": 0.44
+        }
+      },
+      "text": {
+        "light": {
+          "color": "F8BB8E",
+          "opacity": 1
+        },
+        "dark": {
+          "color": "F8BB8E",
+          "opacity": 1
+        }
+      },
+      "highlighted": {
+        "light": {
+          "color": "BD9889",
+          "opacity": 1
+        },
+        "dark": {
+          "color": "BD9889",
+          "opacity": 1
+        }
+      },
+      "unhighlighted": {
+        "light": {
+          "color": "6B729C",
+          "opacity": 1
+        },
+        "dark": {
+          "color": "6B729C",
+          "opacity": 1
+        }
+      },
+      "background_image_overlay": {
+        "light": {
+          "color": "21262C",
+          "opacity": 0.6
+        },
+        "dark": {
+          "color": "21262C",
+          "opacity": 0.6
+        }
+      }
+    }
+  },
+  "ar_options": {
+    "grid_image": {
+      "systemIcon": null,
+      "url": "https://previews.123rf.com/images/electricrain/electricrain1801/electricrain180100032/93288517-abstract-seamless-pattern-modern-stylish-texture-repeating-geometric-hexagonal-grid-simple-graphic-d.jpg",
+      "tintColor": "7AADDC"
+    },
+    "lidar": {
+      "scan_style": "highlight",
+      "unscanned_color": "309bf6",
+      "unscanned_brightness": 0.3,
+      "selected_color": "bc30f6"
+    },
+    "floorplan": {
+      "selected_color": "bc30f6",
+      "unselected_color": "f6ae30",
+      "unpainted_wall_color": "30f6ae",
+      "unpainted_wall_brightness": 0.1
+    },
+    "legacy": {
+      "center_dot": {
+        "systemIcon": null,
+        "url": "https://cdn.pixabay.com/photo/2014/03/25/16/56/sniper-297661__340.png",
+        "tintColor": ""
+      },
+      "corner_images": {
+        "upper_left": {
+          "systemIcon": null,
+          "url": "https://freesvg.org/img/Decorative-Corner-Ornament-Line-Art.png",
+          "tintColor": null
+        },
+        "upper_right": {
+          "systemIcon": null,
+          "url": "https://cdn.pixabay.com/photo/2020/09/27/04/36/frame-5605666__340.png",
+          "tintColor": null
+        },
+        "lower_left": {
+          "systemIcon": null,
+          "url": "https://dejpknyizje2n.cloudfront.net/svgcustom/clipart/preview/decorative-corner-border-2961-14234-550x550.png",
+          "tintColor": ""
+        },
+        "lower_right": {
+          "systemIcon": null,
+          "url": "https://cdn.pixabay.com/photo/2022/06/16/01/10/corner-border-7264817__340.png",
+          "tintColor": ""
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "ui_options": {
+    "font": {
+      "family": "Chalkduster",
+      "size_offset": 0
+    },
+    "background_image": {
+      "systemIcon": null,
+      "url": "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2868,w_2059,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/Craig_Pope_Climbing_Matriarch_htccaq.jpg",
+      "tintColor": null
+    },
+    "method_icons": {
+      "lidar_icon": {
+        "systemIcon": null,
+        "url": "https://icon-library.com/images/mesh-icon/mesh-icon-22.jpg",
+        "tintColor": "7AADDC"
+      },
+      "floorplan_icon": {
+        "systemIcon": null,
+        "url": "https://static.thenounproject.com/png/716233-200.png",
+        "tintColor": "7AADDC"
+      },
+      "legacy_icon": {
+        "systemIcon": null,
+        "url": "https://static.thenounproject.com/png/2701979-200.png",
+        "tintColor": "7AADDC"
+      },
+      "shader_icon": {
+        "systemIcon": null,
+        "url": "https://static.thenounproject.com/png/1711547-200.png",
+        "tintColor": "7AADDC"
+      },
+      "mlsdk_icon": {
+        "systemIcon": null,
+        "url": "https://cdn-icons-png.flaticon.com/512/1693/1693746.png",
+        "tintColor": "7AADDC"
+      }
+    },
+    "button_icons": {
+      "hide_floorplan_unpainted_icon": {
+        "systemIcon": null,
+        "url": "https://cdn2.iconfinder.com/data/icons/business-basic-1/24/Hide-512.png",
+        "tintColor": "7AADDC"
+      },
+      "show_floorplan_unpainted_icon": {
+        "systemIcon": null,
+        "url": "https://cdn1.iconfinder.com/data/icons/general-icons2/128/eye-open2-512.png",
+        "tintColor": "7AADDC"
+      },
+      "shader_occlusions_icon": {
+        "systemIcon": null,
+        "url": "https://static1.squarespace.com/static/619beb857b8d1a54b9fe11b1/t/62ba5051d779e667a53be43a/1661302650331/",
+        "tintColor": "7AADDC"
+      },
+      "shader_occlusion_color_trash_icon": {
+        "systemIcon": null,
+        "url": "https://cdn-icons-png.flaticon.com/512/3221/3221803.png",
+        "tintColor": "7AADDC"
+      },
+      "save_image_icon": {
+        "systemIcon": null,
+        "url": "https://static.thenounproject.com/png/358013-200.png",
+        "tintColor": "7AADDC"
+      },
+      "save_cart_image_icon": {
+        "systemIcon": null,
+        "url": "https://cdn-icons-png.flaticon.com/512/70/70021.png",
+        "tintColor": "7AADDC"
+      },
+      "reset_scene_icon": {
+        "systemIcon": null,
+        "url": "https://static.thenounproject.com/png/237409-200.png",
+        "tintColor": "7AADDC"
+      },
+      "home_icon": {
+        "systemIcon": null,
+        "url": "https://villara.com/wp-content/uploads/2018/05/house-home-icon-70046.png",
+        "tintColor": "7AADDC"
+      },
+      "shopping_cart_icon": {
+        "systemIcon": null,
+        "url": "https://icon-library.com/images/icon-ecommerce-shopping-bag-512_15901.png",
+        "tintColor": "7AADDC"
+      },
+      "shader_occlusion_close_icon": {
+        "systemIcon": null,
+        "url": "https://www.citypng.com/public/uploads/preview/black-square-close-x-button-icon-3163191536344jbn3p5wa.png",
+        "tintColor": "7AADDC"
+      },
+      "ML_Method_icons": {
+        "environment_icon": {
+          "systemIcon": null,
+          "url": "https://static.thenounproject.com/png/17576-200.png",
+          "tintColor": "7AADDC"
+        },
+        "surface_icon": {
+          "systemIcon": null,
+          "url": "https://static.thenounproject.com/png/67667-200.png",
+          "tintColor": "7AADDC"
+        },
+        "abnormality_icon": {
+          "systemIcon": null,
+          "url": "https://static.thenounproject.com/png/1249797-200.png",
+          "tintColor": "7AADDC"
+        }
+      },
+      "method_info_back_button_icon": {
+        "systemIcon": null,
+        "url": "https://uxwing.com/wp-content/themes/uxwing/download/arrow-direction/curved-arrow-back-icon.png",
+        "tintColor": "7AADDC"
+      },
+      "method_info_icon": {
+        "systemIcon": null,
+        "url": "https://www.iconpacks.net/icons/1/free-user-information-icon-290-thumb.png",
+        "tintColor": "7AADDC"
+      }
+    },
+    "colors": {
+      "button": {
+        "light": {
+          "color": "53AE9B",
+          "opacity": 1
+        },
+        "dark": {
+          "color": "53AE9B",
+          "opacity": 1
+        }
+      },
+      "button_text": {
+        "light": {
+          "color": "F1E3C9",
+          "opacity": 1
+        },
+        "dark": {
+          "color": "F1E3C9",
+          "opacity": 1
+        }
+      },
+      "frame_background": {
+        "light": {
+          "color": "2C211B",
+          "opacity": 0.53
+        },
+        "dark": {
+          "color": "2C211B",
+          "opacity": 0.53
+        }
+      },
+      "icon": {
+        "light": {
+          "color": "000000",
+          "opacity": 1
+        },
+        "dark": {
+          "color": "FFFFFF",
+          "opacity": 1
+        }
+      },
+      "icon_background": {
+        "light": {
+          "color": "FFFFFF",
+          "opacity": 0.5
+        },
+        "dark": {
+          "color": "000000",
+          "opacity": 0.5
+        }
+      },
+      "overlay_background": {
+        "light": {
+          "color": "2C211B",
+          "opacity": 0.8
+        },
+        "dark": {
+          "color": "2C211B",
+          "opacity": 0.8
+        }
+      },
+      "subframe_background": {
+        "light": {
+          "color": "2C211B",
+          "opacity": 0.44
+        },
+        "dark": {
+          "color": "2C211B",
+          "opacity": 0.44
+        }
+      },
+      "text": {
+        "light": {
+          "color": "B1D0C2",
+          "opacity": 1
+        },
+        "dark": {
+          "color": "B1D0C2",
+          "opacity": 1
+        }
+      },
+      "highlighted": {
+        "light": {
+          "color": "7AADDC",
+          "opacity": 1
+        },
+        "dark": {
+          "color": "7AADDC",
+          "opacity": 1
+        }
+      },
+      "unhighlighted": {
+        "light": {
+          "color": "3D4373",
+          "opacity": 1
+        },
+        "dark": {
+          "color": "3D4373",
+          "opacity": 1
+        }
+      },
+      "background_image_overlay": {
+        "light": {
+          "color": "21262C",
+          "opacity": 0.6
+        },
+        "dark": {
+          "color": "21262C",
+          "opacity": 0.6
+        }
+      }
+    }
+  },
+  "ar_options": {
+    "grid_image": {
+      "systemIcon": null,
+      "url": "http://cdn.shopify.com/s/files/1/0804/7909/products/DotGrid97581SilverAqua_grande.jpg?v=1613012518",
+      "tintColor": ""
+    },
+    "lidar": {
+      "scan_style": "highlight",
+      "unscanned_color": "309bf6",
+      "unscanned_brightness": 0.3,
+      "selected_color": "bc30f6"
+    },
+    "floorplan": {
+      "selected_color": "bc30f6",
+      "unselected_color": "f6ae30",
+      "unpainted_wall_color": "30f6ae",
+      "unpainted_wall_brightness": 0.1
+    },
+    "legacy": {
+      "center_dot": {
+        "systemIcon": null,
+        "url": "https://images-na.ssl-images-amazon.com/images/I/413Wxa2ALML.png",
+        "tintColor": ""
+      },
+      "corner_images": {
+        "upper_left": {
+          "systemIcon": null,
+          "url": "https://cdn.iconscout.com/icon/premium/png-256-thumb/right-up-corner-1480550-1253377.png",
+          "tintColor": null
+        },
+        "upper_right": {
+          "systemIcon": null,
+          "url": "https://icon-library.com/images/corner-icon/corner-icon-8.jpg",
+          "tintColor": null
+        },
+        "lower_left": {
+          "systemIcon": null,
+          "url": "https://www.i2symbol.com/images/symbols/technical/bottom_left_corner_u231E_icon_256x256.png",
+          "tintColor": ""
+        },
+        "lower_right": {
+          "systemIcon": null,
+          "url": "https://www.i2symbol.com/images/symbols/technical/bottom_right_corner_u231F_icon_256x256.png",
+          "tintColor": ""
+        }
+      }
+    }
+  }
+}

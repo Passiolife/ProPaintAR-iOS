@@ -1,0 +1,351 @@
+# Find all the available rules by running:
+# swiftlint rules
+
+# To install, from Terminal run: brew install swiftlint
+
+disabled_rules: # rule identifiers to exclude from running. Comment out the ones you want to enable.
+
+# These are Auto Correctable. Correct by running: swiftlint autocorrect
+  # - closing_brace                                 # Type: style         Analyzer: no       Configuration: warning
+  # - colon                                         # Type: style         Analyzer: no       Configuration: warning, flexible_right_spacing: false, apply_to_dictionaries: ... 
+  # - comma                                         # Type: style         Analyzer: no       Configuration: warning
+  # - control_statement                             # Type: style         Analyzer: no       Configuration: warning
+  # - empty_enum_arguments                          # Type: style         Analyzer: no       Configuration: warning
+  # - empty_parameters                              # Type: style         Analyzer: no       Configuration: warning
+  # - empty_parentheses_with_trailing_closure       # Type: style         Analyzer: no       Configuration: warning
+  # - leading_whitespace                            # Type: style         Analyzer: no       Configuration: warning
+  # - legacy_cggeometry_functions                   # Type: idiomatic     Analyzer: no       Configuration: warning
+  # - legacy_constant                               # Type: idiomatic     Analyzer: no       Configuration: warning
+  # - legacy_constructor                            # Type: idiomatic     Analyzer: no       Configuration: warning
+  # - legacy_nsgeometry_functions                   # Type: idiomatic     Analyzer: no       Configuration: warning
+  # - mark                                          # Type: lint          Analyzer: no       Configuration: warning
+  # - no_space_in_method_call                       # Type: style         Analyzer: no       Configuration: warning
+  # - opening_brace                                 # Type: style         Analyzer: no       Configuration: warning
+  # - private_over_fileprivate                      # Type: idiomatic     Analyzer: no       Configuration: warning, validate_extensions: false                                
+  # - protocol_property_accessors_order             # Type: style         Analyzer: no       Configuration: warning
+  # - redundant_discardable_let                     # Type: style         Analyzer: no       Configuration: warning
+  # - redundant_objc_attribute                      # Type: idiomatic     Analyzer: no       Configuration: warning
+  # - redundant_optional_initialization             # Type: idiomatic     Analyzer: no       Configuration: warning
+  # - redundant_void_return                         # Type: idiomatic     Analyzer: no       Configuration: warning
+  # - return_arrow_whitespace                       # Type: style         Analyzer: no       Configuration: warning
+  # - statement_position                            # Type: style         Analyzer: no       Configuration: (statement_mode) default, (severity) warning                       
+  # - syntactic_sugar                               # Type: idiomatic     Analyzer: no       Configuration: warning
+  # - trailing_comma                                # Type: style         Analyzer: no       Configuration: warning, mandatory_comma: false                                    
+  # - trailing_newline                              # Type: style         Analyzer: no       Configuration: warning
+  # - trailing_semicolon                            # Type: idiomatic     Analyzer: no       Configuration: warning
+  # - trailing_whitespace                           # Type: style         Analyzer: no       Configuration: warning, ignores_empty_lines: false, ignores_comments: true        
+  # - unused_closure_parameter                      # Type: lint          Analyzer: no       Configuration: warning
+  # - unused_control_flow_label                     # Type: lint          Analyzer: no       Configuration: warning
+  # - vertical_whitespace                           # Type: style         Analyzer: no       Configuration: warning, max_empty_lines: 1                                        
+  # - void_return                                   # Type: style         Analyzer: no       Configuration: warning
+
+# These are not Auto Correctable:
+  # - block_based_kvo                               # Type: idiomatic     Analyzer: no       Configuration: warning
+  # - class_delegate_protocol                       # Type: lint          Analyzer: no       Configuration: warning
+  # - closure_parameter_position                    # Type: style         Analyzer: no       Configuration: warning
+  # - compiler_protocol_init                        # Type: lint          Analyzer: no       Configuration: warning
+  # - custom_rules                                  # Type: style         Analyzer: no       Configuration: user-defined                                                       
+  # - cyclomatic_complexity                         # Type: metrics       Analyzer: no       Configuration: warning: 10, error: 20, ignores_case_statements: false             
+  # - deployment_target                             # Type: lint          Analyzer: no       Configuration: warning, iOS_deployment_target: 7.0, macOS_deployment_target: 1... 
+  # - discarded_notification_center_observer        # Type: lint          Analyzer: no       Configuration: warning
+  # - discouraged_direct_init                       # Type: lint          Analyzer: no       Configuration: warning, types: ["Bundle", "Bundle.init", "UIDevice", "UIDevice... 
+  # - duplicate_enum_cases                          # Type: lint          Analyzer: no       Configuration: error
+  # - duplicate_imports                             # Type: idiomatic     Analyzer: no       Configuration: warning
+  # - dynamic_inline                                # Type: lint          Analyzer: no       Configuration: error
+  # - file_length                                   # Type: metrics       Analyzer: no       Configuration: warning: 400, error: 1000ignore_comment_only_lines: false          
+  # - for_where                                     # Type: idiomatic     Analyzer: no       Configuration: warning
+  # - force_cast                                    # Type: idiomatic     Analyzer: no       Configuration: error
+  # - force_try                                     # Type: idiomatic     Analyzer: no       Configuration: error
+  # - function_body_length                          # Type: metrics       Analyzer: no       Configuration: warning: 40, error: 100                                            
+  # - function_parameter_count                      # Type: metrics       Analyzer: no       Configuration: warning: 5, error: 8ignores_default_parameters: true               
+  # - generic_type_name                             # Type: idiomatic     Analyzer: no       Configuration: (min_length) w/e: 1/0, (max_length) w/e: 20/1000, excluded: [],... 
+  - identifier_name                                 # Type: style         Analyzer: no       Configuration: (min_length) w/e: 3/2, (max_length) w/e: 40/60, excluded: [], a... 
+  # - implicit_getter                               # Type: style         Analyzer: no       Configuration: warning
+  - inclusive_language                              # 
+  # - inert_defer                                   # Type: lint          Analyzer: no       Configuration: warning
+  # - is_disjoint                                   # Type: idiomatic     Analyzer: no       Configuration: warning
+  # - large_tuple                                   # Type: metrics       Analyzer: no       Configuration: warning: 2, error: 3                                               
+  # - legacy_hashing                                # Type: idiomatic     Analyzer: no       Configuration: warning
+  # - line_length                                   # Type: metrics       Analyzer: no       Configuration: warning: 120, error: 200, ignores urls: false, ignores function... 
+  # - multiple_closures_with_trailing_closure       # Type: style         Analyzer: no       Configuration: warning
+  # - nesting                                       # Type: metrics       Analyzer: no       Configuration: (type_level) w: 1, (statement_level) w: 5                          
+  # - no_fallthrough_only                           # Type: idiomatic     Analyzer: no       Configuration: warning
+  - notification_center_detachment                  # Type: lint          Analyzer: no       Configuration: warning
+  - nsobject_prefer_isequal                         # Type: lint          Analyzer: no       Configuration: warning
+  # - operator_whitespace                           # Type: style         Analyzer: no       Configuration: warning
+  # - private_unit_test                             # Type: lint          Analyzer: no       Configuration: warning: XCTestCase                                                
+  # - reduce_boolean                                # Type: performance   Analyzer: no       Configuration: warning
+  # - redundant_set_access_control                  # Type: idiomatic     Analyzer: no       Configuration: warning
+  # - redundant_string_enum_value                   # Type: idiomatic     Analyzer: no       Configuration: warning
+  # - shorthand_operator                            # Type: style         Analyzer: no       Configuration: error
+  # - superfluous_disable_command                   # Type: lint          Analyzer: no       Configuration: warning
+  # - switch_case_alignment                         # Type: style         Analyzer: no       Configuration: warning, indented_cases: false                                     
+  # - todo                                          # Type: lint          Analyzer: no       Configuration: warning
+  # - type_body_length                              # Type: metrics       Analyzer: no       Configuration: warning: 200, error: 350                                           
+  # - type_name                                     # Type: idiomatic     Analyzer: no       Configuration: (min_length) w/e: 3/0, (max_length) w/e: 40/1000, excluded: [],... 
+  # - unneeded_break_in_switch                      # Type: idiomatic     Analyzer: no       Configuration: warning
+  # - unused_capture_list                           # Type: lint          Analyzer: no       Configuration: warning
+  # - unused_enumerated                             # Type: idiomatic     Analyzer: no       Configuration: warning
+  # - unused_optional_binding                       # Type: style         Analyzer: no       Configuration: warning, ignore_optional_try: false                                
+  # - unused_setter_value                           # Type: lint          Analyzer: no       Configuration: warning
+  # - valid_ibinspectable                           # Type: lint          Analyzer: no       Configuration: warning
+  # - vertical_parameter_alignment                  # Type: style         Analyzer: no       Configuration: warning
+  # - weak_delegate                                 # Type: lint          Analyzer: no       Configuration: warning
+  # - xctfail_message                               # Type: idiomatic     Analyzer: no       Configuration: warning          
+
+opt_in_rules: # some rules are only opt-in. Comment out the ones you want to disable.
+
+# These are Auto Correctable. Correct by running: swiftlint autocorrect
+  - anyobject_protocol                            # Type: lint          Analyzer: no       Configuration: warning
+  - closure_end_indentation                       # Type: style         Analyzer: no       Configuration: warning
+  - closure_spacing                               # Type: style         Analyzer: no       Configuration: warning
+  - explicit_init                                 # Type: idiomatic     Analyzer: no       Configuration: warning
+  - implicit_return                               # Type: style         Analyzer: no       Configuration: warning      
+  - modifier_order                                # Type: style         Analyzer: no       Configuration: warning, preferred_modifier_order: [override, acl, setterACL, d...                                                       
+  - operator_usage_whitespace                     # Type: style         Analyzer: no       Configuration: warning    
+  - sorted_imports                                # Type: style         Analyzer: no       Configuration: warning  
+  - toggle_bool                                   # Type: idiomatic     Analyzer: no       Configuration: warning        
+  - unneeded_parentheses_in_closure_argument      # Type: style         Analyzer: no       Configuration: warning 
+  - untyped_error_in_catch                        # Type: idiomatic     Analyzer: no       Configuration: warning  
+  - vertical_whitespace_between_cases             # Type: style         Analyzer: no       Configuration: warning 
+  - vertical_whitespace_closing_braces            # Type: style         Analyzer: no       Configuration: N/A    
+  - vertical_whitespace_opening_braces            # Type: style         Analyzer: no       Configuration: N/A 
+  - joined_default_parameter                      # Type: idiomatic     Analyzer: no       Configuration: warning
+  - literal_expression_end_indentation            # Type: style         Analyzer: no       Configuration: warning   
+  - redundant_type_annotation                     # Type: idiomatic     Analyzer: no       Configuration: warning
+  # - nimble_operator                               # Type: idiomatic     Analyzer: no       Configuration: warning
+  # - number_separator                              # Type: style         Analyzer: no       Configuration: warning, minimum_length: 0
+  # - redundant_nil_coalescing                      # Type: idiomatic     Analyzer: no       Configuration: warning
+
+# These are not Auto Correctable:
+  - array_init                                    # Type: lint          Analyzer: no       Configuration: warning
+  # - attributes                                    # Type: style         Analyzer: no       Configuration: warning, always_on_same_line: ["@IBAction", "@NSManaged"], alwa... 
+  # - closure_body_length                           # Type: metrics       Analyzer: no       Configuration: warning: 20, error: 100                                            
+  - collection_alignment                          # Type: style         Analyzer: no       Configuration: warning, align_colons: false                                       
+  # - conditional_returns_on_newline                # Type: style         Analyzer: no       Configuration: warning, if_only: false                                            
+  - contains_over_filter_count                    # Type: performance   Analyzer: no       Configuration: warning
+  - contains_over_filter_is_empty                 # Type: performance   Analyzer: no       Configuration: warning
+  - contains_over_first_not_nil                   # Type: performance   Analyzer: no       Configuration: warning
+  - contains_over_range_nil_comparison            # Type: performance   Analyzer: no       Configuration: warning
+  - convenience_type                              # Type: idiomatic     Analyzer: no       Configuration: warning
+  - discouraged_object_literal                    # Type: idiomatic     Analyzer: no       Configuration: warning, image_literal: true, color_literal: true                  
+  # - discouraged_optional_boolean                  # Type: idiomatic     Analyzer: no       Configuration: warning
+  # - discouraged_optional_collection               # Type: idiomatic     Analyzer: no       Configuration: warning
+  - empty_collection_literal                      # Type: performance   Analyzer: no       Configuration: warning
+  - empty_count                                   # Type: performance   Analyzer: no       Configuration: error
+  - empty_string                                  # Type: performance   Analyzer: no       Configuration: warning
+  - empty_xctest_method                           # Type: lint          Analyzer: no       Configuration: warning
+  - expiring_todo                                 # Type: lint          Analyzer: no       Configuration: (approaching_expiry_severity) warning, (reached_or_passed_expir... 
+  # - explicit_acl                                  # Type: idiomatic     Analyzer: no       Configuration: warning
+  # - explicit_enum_raw_value                       # Type: idiomatic     Analyzer: no       Configuration: warning
+  # - explicit_top_level_acl                        # Type: idiomatic     Analyzer: no       Configuration: warning
+  # - explicit_type_interface                       # Type: idiomatic     Analyzer: no       Configuration: warning, excluded: [], allow_redundancy: false                     
+  # - extension_access_modifier                     # Type: idiomatic     Analyzer: no       Configuration: warning
+  - fallthrough                                   # Type: idiomatic     Analyzer: no       Configuration: warning
+  - fatal_error_message                           # Type: idiomatic     Analyzer: no       Configuration: warning
+  # - file_header                                   # Type: style         Analyzer: no       Configuration: warning, required_string: None, required_pattern: None, forbidd... 
+  - file_name                                     # Type: idiomatic     Analyzer: no       Configuration: (severity) warning, excluded: ["LinuxMain.swift", "main.swift"]... 
+  # - file_types_order                              # Type: style         Analyzer: no       Configuration: warning, order: [[SwiftLintFramework.FileType.supportingType], ... 
+  - first_where                                   # Type: performance   Analyzer: no       Configuration: warning
+  - flatmap_over_map_reduce                       # Type: performance   Analyzer: no       Configuration: warning
+  - force_unwrapping                              # Type: idiomatic     Analyzer: no       Configuration: warning
+  # - function_default_parameter_at_end             # Type: idiomatic     Analyzer: no       Configuration: warning
+  - identical_operands                            # Type: lint          Analyzer: no       Configuration: warning
+  - implicitly_unwrapped_optional                 # Type: idiomatic     Analyzer: no       Configuration: warning, mode: allExceptIBOutlets                                  
+  - last_where                                    # Type: performance   Analyzer: no       Configuration: warning
+  - legacy_multiple                               # Type: idiomatic     Analyzer: no       Configuration: warning
+  - legacy_random                                 # Type: idiomatic     Analyzer: no       Configuration: warning
+  - let_var_whitespace                            # Type: style         Analyzer: no       Configuration: warning
+  # - lower_acl_than_parent                         # Type: lint          Analyzer: no       Configuration: warning
+  # - missing_docs                                  # Type: lint          Analyzer: no       Configuration: warning: open, public                                              
+  # - multiline_arguments                           # Type: style         Analyzer: no       Configuration: warning, first_argument_location: any_line, only_enforce_after_... 
+  # - multiline_arguments_brackets                  # Type: style         Analyzer: no       Configuration: warning
+  # - multiline_function_chains                     # Type: style         Analyzer: no       Configuration: warning
+  # - multiline_literal_brackets                    # Type: style         Analyzer: no       Configuration: warning
+  - multiline_parameters                          # Type: style         Analyzer: no       Configuration: warning
+  - multiline_parameters_brackets                 # Type: style         Analyzer: no       Configuration: warning
+  # - no_extension_access_modifier                  # Type: idiomatic     Analyzer: no       Configuration: error
+  # - no_grouping_extension                         # Type: idiomatic     Analyzer: no       Configuration: warning
+  - nslocalizedstring_key                         # Type: lint          Analyzer: no       Configuration: warning
+  # - nslocalizedstring_require_bundle              # Type: lint          Analyzer: no       Configuration: warning
+  # - object_literal                                # Type: idiomatic     Analyzer: no       Configuration: warning, image_literal: true, color_literal: true                  
+  - overridden_super_call                         # Type: lint          Analyzer: no       Configuration: warning, excluded: [[]], included: [["*"]]                         
+  # - override_in_extension                         # Type: lint          Analyzer: no       Configuration: warning
+  - pattern_matching_keywords                     # Type: idiomatic     Analyzer: no       Configuration: warning
+  - prefixed_toplevel_constant                    # Type: style         Analyzer: no       Configuration: warning, only_private: false                                       
+  # - private_action                                # Type: lint          Analyzer: no       Configuration: warning
+  # - private_outlet                                # Type: lint          Analyzer: no       Configuration: warning, allow_private_set: false                                  
+  # - prohibited_interface_builder                  # Type: lint          Analyzer: no       Configuration: warning
+  # - prohibited_super_call                         # Type: lint          Analyzer: no       Configuration: warning, excluded: [[]], included: [["*"]]                         
+  # - quick_discouraged_call                        # Type: lint          Analyzer: no       Configuration: warning
+  # - quick_discouraged_focused_test                # Type: lint          Analyzer: no       Configuration: warning
+  # - quick_discouraged_pending_test                # Type: lint          Analyzer: no       Configuration: warning
+  # - raw_value_for_camel_cased_codable_enum        # Type: lint          Analyzer: no       Configuration: warning
+  # - reduce_into                                   # Type: performance   Analyzer: no       Configuration: warning
+  # - required_deinit                               # Type: lint          Analyzer: no       Configuration: warning
+  # - required_enum_case                            # Type: lint          Analyzer: no       Configuration: No protocols configured.  In config add 'required_enum_case' to... 
+  # - single_test_class                             # Type: style         Analyzer: no       Configuration: warning
+  - sorted_first_last                             # Type: performance   Analyzer: no       Configuration: warning
+  # - static_operator                               # Type: idiomatic     Analyzer: no       Configuration: warning
+  # - strict_fileprivate                            # Type: idiomatic     Analyzer: no       Configuration: warning
+  # - strong_iboutlet                               # Type: lint          Analyzer: no       Configuration: warning
+  # - switch_case_on_newline                        # Type: style         Analyzer: no       Configuration: warning
+  # - trailing_closure                              # Type: style         Analyzer: no       Configuration: warning, only_single_muted_parameter: false                        
+  # - type_contents_order                           # Type: style         Analyzer: no       Configuration: warning, order: [[SwiftLintFramework.TypeContent.case], [SwiftL... 
+  - unavailable_function                          # Type: idiomatic     Analyzer: no       Configuration: warning
+  - unowned_variable_capture                      # Type: lint          Analyzer: no       Configuration: warning                 
+  - vertical_parameter_alignment_on_call          # Type: style         Analyzer: no       Configuration: warning
+  # - xct_specific_matcher                          # Type: idiomatic     Analyzer: no       Configuration: warning
+  - yoda_condition                                # Type: lint          Analyzer: no       Configuration: warning                   
+
+custom_rules:
+  guard_return_length:
+    regex: 'guard[^\n]*else *\{ *return *[^\n}]{35,} *\}$'
+    message: "Single line guard return statements must contain 34 characters or less"
+  guard_return_statement:
+    regex: '; *return'
+    message: "No statements are allowed before the return in a guard else { return } statement"
+  # non_localized_word:
+  #   regex: '(?<!NSLocalizedString\()"[[:upper:]][[:lower:]]+"'
+  #   message: "Wrap string in NSLocalizedString()"
+  # non_localized_sentence:
+  #   regex: '(?<!NSLocalizedString\(|fatalError\(|\S)"[^"]+ [^"]*"'
+  #   message: "Wrap string in NSLocalizedString()"
+  # non_localized_multiline:
+  #   regex: '(?<!NSLocalizedString\()""".*?"""'
+  #   message: "Wrap string in NSLocalizedString()"
+
+included: # paths to include during linting. `--path` is ignored if present.
+  - ProPaint AR
+  
+excluded: # paths to ignore during linting. Takes precedence over `included`.
+
+analyzer_rules: # Rules run by `swiftlint analyze` (experimental)
+  # - explicit_self                                 # Type: style         Analyzer: yes      Configuration: warning
+  # - unused_import                                 # Type: lint          Analyzer: yes      Configuration: warning
+  - unused_declaration                            # Type: lint          Analyzer: yes      Configuration: severity: error, include_public_and_open: false
+
+unused_declaration:
+  severity: warning
+  include_public_and_open: true
+
+force_cast: warning # implicitly
+
+force_try:
+  severity: warning # explicitly
+
+type_body_length:
+  warning: 300
+  error: 400
+
+file_length:
+  warning: 1000 # change this to a reasonable number. Temporary value for testing.
+  error: 1200
+  ignore_comment_only_lines: true
+
+type_name:
+  min_length: 4 # only warning
+  max_length: # warning and error
+    warning: 40
+    error: 50
+  excluded:
+    - HSL
+  allowed_symbols: ["_"] # these are allowed in type names
+
+reporter: "xcode" # reporter type (xcode, json, csv, checkstyle, junit, html, emoji, sonarqube, markdown)
+
+cyclomatic_complexity:
+    warning: 15 # change this to a reasonable number. Temporary value for testing.
+    error: 20
+    ignores_case_statements: true
+
+function_body_length:
+    warning: 100 # change this to a reasonable number. Temporary value for testing.
+    error: 100
+
+function_parameter_count:
+    warning: 6 # change this to a reasonable number. Temporary value for testing.
+    error: 8
+
+type_name:
+  excluded:
+    - HSB
+
+identifier_name:
+  min_length:
+    warning: 3
+    error: 2
+  max_length:
+    warning: 40
+    error: 60
+  excluded:
+    - id
+    - ok
+    - on
+    - up
+    - no
+    - by
+    - ip
+    - URL
+    - ad
+    - Y
+    - U
+    - V
+    - r
+    - g
+    - b
+    - a
+    - HSL
+    - HSB
+    - hsl
+    - to
+
+line_length:
+  warning: 111
+  # ignores_function_declarations: true
+  ignores_comments: true
+  ignores_interpolated_strings: true
+  ignores_urls: true
+
+nesting:
+  type_level:
+    warning: 2
+
+trailing_whitespace:
+  ignores_empty_lines: true
+
+# file_header: 
+#   excluded: []
+
+file_name: 
+  excluded: [
+    "UIStoryboardNames.swift", 
+    "LidarViewModel.swift", 
+    "LidarLocalData.swift", 
+    "OcclusionWizardViewModel.swift", 
+    "OcclusionWizardLocalData.swift", 
+    "FSPagerViewLayout.swift", 
+    "FSPagerViewTransformer.swift", 
+    "FSPagerViewTransformer.swift", 
+    "DateFormatter-Extensions.swift", 
+    "OperationQueue-Extensions.swift", 
+    "Bundle-Extensions.swift", 
+    "NibLoadable.swift", 
+    "Date-Extensions.swift", 
+    "DequeableView.swift", 
+    "Embeddable.swift", 
+    "FloorplanLocalData.swift", 
+    "FloorplanViewModel.swift",
+    "LegacyLocalData.swift",
+    "LegacyViewModel.swift",
+    "ShaderPaintLocalData.swift",
+    "ShaderPaintViewModel.swift", 
+    "CartViewModel.swift",
+    "BenjaminMooreData.swift",
+    "AttributedString+Extensions.swift",
+    "Float+Extensions.swift",
+    "DeviceHelper.swift",
+    "RoomPlanViewModel.swift",
+    "RoomPlanLocalData.swift",
+    "LidarOcclusionWizardLocalData.swift"
+  ]

@@ -1,0 +1,279 @@
+{
+  "ui_options": {
+    "font": {
+      "family": "Papyrus",
+      "size_offset": 0
+    },
+    "background_image": {
+      "systemIcon": "",
+      "url": "https://www.jetsetter.com//uploads/sites/7/2018/04/E_lxgS2X-1380x1035.jpeg",
+      "tintColor": ""
+    },
+    "method_icons": {
+      "lidar_icon": {
+        "systemIcon": "circle.hexagongrid",
+        "url": "",
+        "tintColor": "B1B883"
+      },
+      "floorplan_icon": {
+        "systemIcon": "cube.transparent",
+        "url": "",
+        "tintColor": "B1B883"
+      },
+      "legacy_icon": {
+        "systemIcon": "square.grid.2x2",
+        "url": "",
+        "tintColor": "B1B883"
+      },
+      "shader_icon": {
+        "systemIcon": "drop.circle",
+        "url": "",
+        "tintColor": "B1B883"
+      },
+      "mlsdk_icon": {
+        "systemIcon": "brain.head.profile",
+        "url": "",
+        "tintColor": "B1B883"
+      }
+    },
+    "button_icons": {
+      "hide_floorplan_unpainted_icon": {
+        "systemIcon": "eye.slash.fill",
+        "url": "",
+        "tintColor": "B1B883"
+      },
+      "show_floorplan_unpainted_icon": {
+        "systemIcon": "eye.fill",
+        "url": "",
+        "tintColor": "B1B883"
+      },
+      "shader_occlusions_icon": {
+        "systemIcon": "paintpalette.fill",
+        "url": "",
+        "tintColor": "B1B883"
+      },
+      "shader_occlusion_color_trash_icon": {
+        "systemIcon": "trash.circle.fill",
+        "url": "",
+        "tintColor": "B1B883"
+      },
+      "save_image_icon": {
+        "systemIcon": "photo.on.rectangle.angled",
+        "url": "",
+        "tintColor": "B1B883"
+      },
+      "save_cart_image_icon": {
+        "systemIcon": "square.and.arrow.down.on.square.fill",
+        "url": "",
+        "tintColor": "B1B883"
+      },
+      "reset_scene_icon": {
+        "systemIcon": "clock.arrow.circlepath",
+        "url": "",
+        "tintColor": "B1B883"
+      },
+      "home_icon": {
+        "systemIcon": "house.circle.fill",
+        "url": "",
+        "tintColor": "B1B883"
+      },
+      "shopping_cart_icon": {
+        "systemIcon": "cart.circle.fill",
+        "url": "",
+        "tintColor": "B1B883"
+      },
+      "shader_occlusion_close_icon": {
+        "systemIcon": "xmark.square.fill",
+        "url": "",
+        "tintColor": "B1B883"
+      },
+      "ML_Method_icons": {
+        "environment_icon": {
+          "systemIcon": "square.split.bottomrightquarter.fill",
+          "url": "",
+          "tintColor": "B1B883"
+        },
+        "surface_icon": {
+          "systemIcon": "snowflake.circle",
+          "url": "",
+          "tintColor": "B1B883"
+        },
+        "abnormality_icon": {
+          "systemIcon": "bolt.circle",
+          "url": "",
+          "tintColor": "B1B883"
+        }
+      },
+      "method_info_back_button_icon": {
+        "systemIcon": "arrow.left.circle.fill",
+        "url": "",
+        "tintColor": "B1B883"
+      },
+      "method_info_icon": {
+        "systemIcon": "info.circle",
+        "url": "",
+        "tintColor": "B1B883"
+      }
+    },
+    "colors": {
+      "button": {
+        "light": {
+          "color": "32675A",
+          "opacity": 1
+        },
+        "dark": {
+          "color": "32675A",
+          "opacity": 1
+        }
+      },
+      "button_text": {
+        "light": {
+          "color": "FBDB06",
+          "opacity": 1
+        },
+        "dark": {
+          "color": "FBDB06",
+          "opacity": 1
+        }
+      },
+      "frame_background": {
+        "light": {
+          "color": "17212A",
+          "opacity": 0.53
+        },
+        "dark": {
+          "color": "17212A",
+          "opacity": 0.53
+        }
+      },
+      "icon": {
+        "light": {
+          "color": "7DB06C",
+          "opacity": 1
+        },
+        "dark": {
+          "color": "7DB06C",
+          "opacity": 1
+        }
+      },
+      "icon_background": {
+        "light": {
+          "color": "626FA5",
+          "opacity": 0.5
+        },
+        "dark": {
+          "color": "626FA5",
+          "opacity": 0.5
+        }
+      },
+      "overlay_background": {
+        "light": {
+          "color": "17212A",
+          "opacity": 0.8
+        },
+        "dark": {
+          "color": "17212A",
+          "opacity": 0.8
+        }
+      },
+      "subframe_background": {
+        "light": {
+          "color": "17212A",
+          "opacity": 0.44
+        },
+        "dark": {
+          "color": "17212A",
+          "opacity": 0.44
+        }
+      },
+      "text": {
+        "light": {
+          "color": "DCCB44",
+          "opacity": 1
+        },
+        "dark": {
+          "color": "DCCB44",
+          "opacity": 1
+        }
+      },
+      "highlighted": {
+        "light": {
+          "color": "389877",
+          "opacity": 1
+        },
+        "dark": {
+          "color": "389877",
+          "opacity": 1
+        }
+      },
+      "unhighlighted": {
+        "light": {
+          "color": "383F27",
+          "opacity": 1
+        },
+        "dark": {
+          "color": "383F27",
+          "opacity": 1
+        }
+      },
+      "background_image_overlay": {
+        "light": {
+          "color": "21262C",
+          "opacity": 0.6
+        },
+        "dark": {
+          "color": "21262C",
+          "opacity": 0.6
+        }
+      }
+    }
+  },
+  "ar_options": {
+    "grid_image": {
+      "systemIcon": "",
+      "url": "",
+      "tintColor": "B1B883"
+    },
+    "lidar": {
+      "scan_style": "highlight",
+      "unscanned_color": "309bf6",
+      "unscanned_brightness": 0.3,
+      "selected_color": "bc30f6"
+    },
+    "floorplan": {
+      "selected_color": "bc30f6",
+      "unselected_color": "f6ae30",
+      "unpainted_wall_color": "30f6ae",
+      "unpainted_wall_brightness": 0.1
+    },
+    "legacy": {
+      "center_dot": {
+        "systemIcon": "circle.circle",
+        "url": "",
+        "tintColor": ""
+      },
+      "corner_images": {
+        "upper_left": {
+          "systemIcon": "arrow.up.left.square.fill",
+          "url": "",
+          "tintColor": ""
+        },
+        "upper_right": {
+          "systemIcon": "arrow.up.right.square.fill",
+          "url": "",
+          "tintColor": ""
+        },
+        "lower_left": {
+          "systemIcon": "arrow.down.left.square.fill",
+          "url": "",
+          "tintColor": ""
+        },
+        "lower_right": {
+          "systemIcon": "arrow.down.right.square.fill",
+          "url": "",
+          "tintColor": ""
+        }
+      }
+    }
+  }
+}

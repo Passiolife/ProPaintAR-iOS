@@ -1,0 +1,1526 @@
+[
+    {
+        "color": "#89e5ab",
+        "name": "Vibrant",
+        "id": "5",
+        "texture": null,
+        "secondaryColors": [
+            {
+                "name": "Jovial Jade",
+                "color": "#89e5ab",
+                "id": "20416",
+                "code": "VB-20416",
+                "texture": null
+            },
+            {
+                "name": "Alarming Slime",
+                "color": "#24e23a",
+                "id": "98978",
+                "code": "VB-98978",
+                "texture": null
+            },
+            {
+                "name": "Amazon Parrot",
+                "color": "#75e855",
+                "id": "74750",
+                "code": "VB-74750",
+                "texture": null
+            },
+            {
+                "name": "Bloodthirsty Warlock",
+                "color": "#ed1539",
+                "id": "35887",
+                "code": "VB-35887",
+                "texture": null
+            },
+            {
+                "name": "Bright Chartreuse",
+                "color": "#e1fc19",
+                "id": "29527",
+                "code": "VB-29527",
+                "texture": null
+            },
+            {
+                "name": "Congress Blue",
+                "color": "#00428e",
+                "id": "64549",
+                "code": "VB-64549",
+                "texture": null
+            },
+            {
+                "name": "Fresh Green",
+                "color": "#6dd85d",
+                "id": "56836",
+                "code": "VB-56836",
+                "texture": null
+            },
+            {
+                "name": "Herbivore",
+                "color": "#84ef69",
+                "id": "65170",
+                "code": "VB-65170",
+                "texture": null
+            },
+            {
+                "name": "Leo Royal Fuchsia",
+                "color": "#ed44d1",
+                "id": "67312",
+                "code": "VB-67312",
+                "texture": null
+            },
+            {
+                "name": "Middle Purple",
+                "color": "#db7fb1",
+                "id": "35739",
+                "code": "VB-35739",
+                "texture": null
+            },
+            {
+                "name": "Opal Flame",
+                "color": "#e55947",
+                "id": "19290",
+                "code": "VB-19290",
+                "texture": null
+            },
+            {
+                "name": "Opalescent",
+                "color": "#3d8dc6",
+                "id": "40213",
+                "code": "VB-40213",
+                "texture": null
+            },
+            {
+                "name": "Orchid",
+                "color": "#7789ff",
+                "id": "31217",
+                "code": "VB-31217",
+                "texture": null
+            },
+            {
+                "name": "Pastel Green",
+                "color": "#6edd74",
+                "id": "23403",
+                "code": "VB-23403",
+                "texture": null
+            },
+            {
+                "name": "Pink Quartz",
+                "color": "#f9c0ed",
+                "id": "48404",
+                "code": "VB-48404",
+                "texture": null
+            },
+            {
+                "name": "Sanskrit",
+                "color": "#ea9131",
+                "id": "54446",
+                "code": "VB-54446",
+                "texture": null
+            },
+            {
+                "name": "Veteran's Day Blue",
+                "color": "#2d5ae2",
+                "id": "68326",
+                "code": "VB-68326",
+                "texture": null
+            },
+            {
+                "name": "Waikiki",
+                "color": "#22899b",
+                "id": "11568",
+                "code": "VB-11568",
+                "texture": null
+            }
+        ]
+    },
+    {
+        "color": "#c4452f",
+        "name": "Texture Paints",
+        "id": "17",
+        "texture": "venetianWall",
+        "secondaryColors": [
+            {
+                "name": "Venetian",
+                "color": "#c4452f",
+                "id": "568367",
+                "code": "TP-7",
+                "texture": "venetianWall"
+            },
+            {
+                "name": "Plaster",
+                "color": "#c4452f",
+                "id": "204161",
+                "code": "TP-1",
+                "texture": "plasterWall"
+            },
+            {
+                "name": "Cinder",
+                "color": "#c4452f",
+                "id": "989782",
+                "code": "TP-2",
+                "texture": "cinderWall"
+            },
+            {
+                "name": "Brick",
+                "color": "#c4452f",
+                "id": "747503",
+                "code": "TP-3",
+                "texture": "brickWall"
+            },
+            {
+                "name": "Pebble",
+                "color": "#c4452f",
+                "id": "358874",
+                "code": "TP-4",
+                "texture": "pebbleWall"
+            },
+            {
+                "name": "Renaissance",
+                "color": "#c4452f",
+                "id": "295275",
+                "code": "TP-5",
+                "texture": "renaissanceWall"
+            },
+            {
+                "name": "Stone",
+                "color": "#c4452f",
+                "id": "645496",
+                "code": "TP-6",
+                "texture": "stoneWall"
+            }
+        ]
+    },
+    {
+        "texture": null,
+        "secondaryColors": [
+            {
+                "name": "Tardis Blue",
+                "color": "#013e70",
+                "id": "46382",
+                "code": "DC-46382",
+                "texture": null
+            },
+            {
+                "name": "Benevolent Pink",
+                "color": "#db0f89",
+                "id": "08127",
+                "code": "DC-08127",
+                "texture": null
+            },
+            {
+                "name": "Celtic Queen",
+                "color": "#018969",
+                "id": "95548",
+                "code": "DC-95548",
+                "texture": null
+            },
+            {
+                "name": "Darth Torus",
+                "color": "#200763",
+                "id": "78617",
+                "code": "DC-78617",
+                "texture": null
+            },
+            {
+                "name": "Deadly Yellow",
+                "color": "#ddb102",
+                "id": "93983",
+                "code": "DC-93983",
+                "texture": null
+            },
+            {
+                "name": "Dirty Orange",
+                "color": "#ce7406",
+                "id": "47159",
+                "code": "DC-47159",
+                "texture": null
+            },
+            {
+                "name": "Eternal Summer",
+                "color": "#f4e50c",
+                "id": "79679",
+                "code": "DC-79679",
+                "texture": null
+            },
+            {
+                "name": "Hanging Gardens of Babylon",
+                "color": "#11aa44",
+                "id": "45034",
+                "code": "DC-45034",
+                "texture": null
+            },
+            {
+                "name": "Indigo Dye",
+                "color": "#06406d",
+                "id": "18730",
+                "code": "DC-18730",
+                "texture": null
+            },
+            {
+                "name": "Lush Aqua",
+                "color": "#044566",
+                "id": "62107",
+                "code": "DC-62107",
+                "texture": null
+            },
+            {
+                "name": "Magnetic Blue",
+                "color": "#065189",
+                "id": "74034",
+                "code": "DC-74034",
+                "texture": null
+            },
+            {
+                "name": "One Minute to Midnight",
+                "color": "#022d82",
+                "id": "67470",
+                "code": "DC-67470",
+                "texture": null
+            },
+            {
+                "name": "Over the Hills",
+                "color": "#4f6b02",
+                "id": "32539",
+                "code": "DC-32539",
+                "texture": null
+            },
+            {
+                "name": "Oxblood",
+                "color": "#820321",
+                "id": "51949",
+                "code": "DC-51949",
+                "texture": null
+            },
+            {
+                "name": "Pigment Indigo",
+                "color": "#530982",
+                "id": "00046",
+                "code": "DC-00046",
+                "texture": null
+            },
+            {
+                "name": "Rapeseed",
+                "color": "#bf9413",
+                "id": "56305",
+                "code": "DC-56305",
+                "texture": null
+            },
+            {
+                "name": "Snowstorm Space Shuttle",
+                "color": "#01168c",
+                "id": "39801",
+                "code": "DC-39801",
+                "texture": null
+            },
+            {
+                "name": "Verse Green",
+                "color": "#1d8708",
+                "id": "86464",
+                "code": "DC-86464",
+                "texture": null
+            }
+        ],
+        "name": "Dark",
+        "color": "#013e70",
+        "id": "6"
+    },
+    {
+        "texture": null,
+        "secondaryColors": [
+            {
+                "name": "Anakiwa",
+                "color": "#8bceed",
+                "id": "96266",
+                "code": "LC-96266",
+                "texture": null
+            },
+            {
+                "name": "Ariel",
+                "color": "#acd4ef",
+                "id": "48548",
+                "code": "LC-48548",
+                "texture": null
+            },
+            {
+                "name": "Blister Pearl",
+                "color": "#a6fcee",
+                "id": "95614",
+                "code": "LC-95614",
+                "texture": null
+            },
+            {
+                "name": "Electric Eel",
+                "color": "#8bb6ef",
+                "id": "09814",
+                "code": "LC-09814",
+                "texture": null
+            },
+            {
+                "name": "Electric Flamingo",
+                "color": "#f772ff",
+                "id": "17899",
+                "code": "LC-17899",
+                "texture": null
+            },
+            {
+                "name": "Euphoria",
+                "color": "#edb5ff",
+                "id": "69293",
+                "code": "LC-69293",
+                "texture": null
+            },
+            {
+                "name": "Fun Yellow",
+                "color": "#f7e394",
+                "id": "05910",
+                "code": "LC-05910",
+                "texture": null
+            },
+            {
+                "name": "Lavender Blue Shadow",
+                "color": "#8591fc",
+                "id": "66163",
+                "code": "LC-66163",
+                "texture": null
+            },
+            {
+                "name": "Lemon Gate",
+                "color": "#99f7d0",
+                "id": "25644",
+                "code": "LC-25644",
+                "texture": null
+            },
+            {
+                "name": "Matt Purple",
+                "color": "#9e7cdd",
+                "id": "77777",
+                "code": "LC-77777",
+                "texture": null
+            },
+            {
+                "name": "Melon Sorbet",
+                "color": "#f9b99a",
+                "id": "89197",
+                "code": "LC-89197",
+                "texture": null
+            },
+            {
+                "name": "Perrywinkle",
+                "color": "#8c8eea",
+                "id": "79371",
+                "code": "LC-79371",
+                "texture": null
+            },
+            {
+                "name": "Pink Elephants",
+                "color": "#ff8ef3",
+                "id": "15001",
+                "code": "LC-15001",
+                "texture": null
+            },
+            {
+                "name": "Pinkling",
+                "color": "#e580fc",
+                "id": "91453",
+                "code": "LC-91453",
+                "texture": null
+            },
+            {
+                "name": "Rich Brilliant Lavender",
+                "color": "#f7abfc",
+                "id": "63096",
+                "code": "LC-63096",
+                "texture": null
+            },
+            {
+                "name": "Shimmering Love",
+                "color": "#fc88ca",
+                "id": "60136",
+                "code": "LC-60136",
+                "texture": null
+            },
+            {
+                "name": "Soft Blue",
+                "color": "#728fe5",
+                "id": "99664",
+                "code": "LC-99664",
+                "texture": null
+            },
+            {
+                "name": "Ulva Lactuca Green",
+                "color": "#83f78e",
+                "id": "82045",
+                "code": "LC-82045",
+                "texture": null
+            }
+        ],
+        "color": "#8bceed",
+        "id": "7",
+        "name": "Light"
+    },
+    {
+        "texture": null,
+        "secondaryColors": [
+            {
+                "name": "Bauhaus",
+                "color": "#3f3f3f",
+                "id": "69110",
+                "code": "MC-69110",
+                "texture": null
+            },
+            {
+                "name": "Black Oak",
+                "color": "#4f4f4f",
+                "id": "58479",
+                "code": "MC-58479",
+                "texture": null
+            },
+            {
+                "name": "Boat Anchor",
+                "color": "#6b6b6b",
+                "id": "60175",
+                "code": "MC-60175",
+                "texture": null
+            },
+            {
+                "name": "Brainstem Grey",
+                "color": "#b5b5b5",
+                "id": "24107",
+                "code": "MC-24107",
+                "texture": null
+            },
+            {
+                "name": "Cerebral Grey",
+                "color": "#cccccc",
+                "id": "63794",
+                "code": "MC-63794",
+                "texture": null
+            },
+            {
+                "name": "Dark Souls",
+                "color": "#a3a3a3",
+                "id": "23804",
+                "code": "MC-23804",
+                "texture": null
+            },
+            {
+                "name": "Elemental Grey",
+                "color": "#a0a0a0",
+                "id": "27591",
+                "code": "MC-27591",
+                "texture": null
+            },
+            {
+                "name": "Grey Shingle",
+                "color": "#93939",
+                "id": "49673",
+                "code": "MC-49673",
+                "texture": null
+            },
+            {
+                "name": "Kettleman",
+                "color": "#606060",
+                "id": "43950",
+                "code": "MC-43950",
+                "texture": null
+            },
+            {
+                "name": "Lead",
+                "color": "#212121",
+                "id": "61134",
+                "code": "MC-61134",
+                "texture": null
+            },
+            {
+                "name": "Robo Master",
+                "color": "#adadad",
+                "id": "95396",
+                "code": "MC-95396",
+                "texture": null
+            },
+            {
+                "name": "Shadow Gargoyle",
+                "color": "#686868",
+                "id": "75764",
+                "code": "MC-75764",
+                "texture": null
+            },
+            {
+                "name": "Shoe Wax",
+                "color": "#2b2b2b",
+                "id": "95224",
+                "code": "MC-95224",
+                "texture": null
+            },
+            {
+                "name": "Silver Polish",
+                "color": "#c6c6c6",
+                "id": "51748",
+                "code": "MC-51748",
+                "texture": null
+            },
+            {
+                "name": "Sooty",
+                "color": "#141414",
+                "id": "55796",
+                "code": "MC-55796",
+                "texture": null
+            },
+            {
+                "name": "Thamar Black",
+                "color": "#191919",
+                "id": "99215",
+                "code": "MC-99215",
+                "texture": null
+            },
+            {
+                "name": "Unicorn Silver",
+                "color": "#e8e8e8",
+                "id": "63916",
+                "code": "MC-63916",
+                "texture": null
+            },
+            {
+                "name": "Young Night",
+                "color": "#232323",
+                "id": "45946",
+                "code": "MC-45946",
+                "texture": null
+            }
+        ],
+        "id": "8",
+        "name": "Monochromatic",
+        "color": "#3f3f3f"
+    },
+    {
+        "texture": null,
+        "secondaryColors": [
+            {
+                "name": "Banan-appeal",
+                "color": "#f7efa8",
+                "id": "88826",
+                "code": "YC-88826",
+                "texture": null
+            },
+            {
+                "name": "Biotic Grasp",
+                "color": "#e7ea46",
+                "id": "92334",
+                "code": "YC-92334",
+                "texture": null
+            },
+            {
+                "name": "Break of Day",
+                "color": "#fff9bc",
+                "id": "61196",
+                "code": "YC-61196",
+                "texture": null
+            },
+            {
+                "name": "Calabash",
+                "color": "#f7ed94",
+                "id": "57548",
+                "code": "YC-57548",
+                "texture": null
+            },
+            {
+                "name": "Dandelion Tincture",
+                "color": "#f4e02e",
+                "id": "64531",
+                "code": "YC-64531",
+                "texture": null
+            },
+            {
+                "name": "Finger Banana",
+                "color": "#e0c22f",
+                "id": "72057",
+                "code": "YC-72057",
+                "texture": null
+            },
+            {
+                "name": "Funky Yellow",
+                "color": "#edd16f",
+                "id": "95750",
+                "code": "YC-95750",
+                "texture": null
+            },
+            {
+                "name": "Gangsters Gold",
+                "color": "#ffd623",
+                "id": "25981",
+                "code": "YC-25981",
+                "texture": null
+            },
+            {
+                "name": "Gatsby Glitter",
+                "color": "#edd684",
+                "id": "60427",
+                "code": "YC-60427",
+                "texture": null
+            },
+            {
+                "name": "Gold Deposit",
+                "color": "#e0ce5c",
+                "id": "65488",
+                "code": "YC-65488",
+                "texture": null
+            },
+            {
+                "name": "Lamenters Yellow",
+                "color": "#fcfcb5",
+                "id": "04026",
+                "code": "YC-04026",
+                "texture": null
+            },
+            {
+                "name": "Laser Lemon",
+                "color": "#ffff68",
+                "id": "34116",
+                "code": "YC-34116",
+                "texture": null
+            },
+            {
+                "name": "Pickled Lemon",
+                "color": "#e5c910",
+                "id": "26566",
+                "code": "YC-26566",
+                "texture": null
+            },
+            {
+                "name": "Pilsener",
+                "color": "#f7f754",
+                "id": "17065",
+                "code": "YC-17065",
+                "texture": null
+            },
+            {
+                "name": "Pirate Treasure",
+                "color": "#e0cc69",
+                "id": "84360",
+                "code": "YC-84360",
+                "texture": null
+            },
+            {
+                "name": "Ripe Pear",
+                "color": "#e1e273",
+                "id": "51252",
+                "code": "YC-51252",
+                "texture": null
+            },
+            {
+                "name": "Seed Pod",
+                "color": "#ddc23b",
+                "id": "69946",
+                "code": "YC-69946",
+                "texture": null
+            },
+            {
+                "name": "Spring Yellow",
+                "color": "#f2e47b",
+                "id": "16828",
+                "code": "YC-16828",
+                "texture": null
+            }
+        ],
+        "id": "9",
+        "name": "Yellow",
+        "color": "#f7efa8"
+    },
+    {
+        "texture": null,
+        "secondaryColors": [
+            {
+                "name": "Tigerlily",
+                "color": "#ea5b41",
+                "id": "27761",
+                "code": "RC-27761",
+                "texture": null
+            },
+            {
+                "name": "A Lot of Love",
+                "color": "#ffbcc5",
+                "id": "50477",
+                "code": "RC-50477",
+                "texture": null
+            },
+            {
+                "name": "Amaranth Red",
+                "color": "#d1232c",
+                "id": "85037",
+                "code": "RC-85037",
+                "texture": null
+            },
+            {
+                "name": "Blush",
+                "color": "#f29f91",
+                "id": "28160",
+                "code": "RC-28160",
+                "texture": null
+            },
+            {
+                "name": "Calabrese",
+                "color": "#f2a8a4",
+                "id": "59104",
+                "code": "RC-59104",
+                "texture": null
+            },
+            {
+                "name": "Carnivore",
+                "color": "#9b1111",
+                "id": "81338",
+                "code": "RC-81338",
+                "texture": null
+            },
+            {
+                "name": "Cumquat Cream",
+                "color": "#f29c80",
+                "id": "30162",
+                "code": "RC-30162",
+                "texture": null
+            },
+            {
+                "name": "Fresh Auburn",
+                "color": "#a82f26",
+                "id": "70305",
+                "code": "RC-70305",
+                "texture": null
+            },
+            {
+                "name": "Fresh on the Market",
+                "color": "#f7aac0",
+                "id": "56770",
+                "code": "RC-56770",
+                "texture": null
+            },
+            {
+                "name": "Junkyard Pink",
+                "color": "#fc6794",
+                "id": "31627",
+                "code": "RC-31627",
+                "texture": null
+            },
+            {
+                "name": "Mexican Red Papaya",
+                "color": "#c4452f",
+                "id": "41053",
+                "code": "RC-41053",
+                "texture": null
+            },
+            {
+                "name": "Pink Carnation",
+                "color": "#e5799d",
+                "id": "92779",
+                "code": "RC-92779",
+                "texture": null
+            },
+            {
+                "name": "Raspberry Wine",
+                "color": "#ba3052",
+                "id": "75480",
+                "code": "RC-75480",
+                "texture": null
+            },
+            {
+                "name": "Red Radish",
+                "color": "#f43041",
+                "id": "98889",
+                "code": "RC-98889",
+                "texture": null
+            },
+            {
+                "name": "Retro Orange",
+                "color": "#e54a0d",
+                "id": "67499",
+                "code": "RC-67499",
+                "texture": null
+            },
+            {
+                "name": "Rogue Pink",
+                "color": "#f4a6c3",
+                "id": "57782",
+                "code": "RC-57782",
+                "texture": null
+            },
+            {
+                "name": "Self-Love",
+                "color": "#d1236e",
+                "id": "72411",
+                "code": "RC-72411",
+                "texture": null
+            },
+            {
+                "name": "Tango Red",
+                "color": "#b20a2f",
+                "id": "89057",
+                "code": "RC-89057",
+                "texture": null
+            }
+        ],
+        "id": "10",
+        "name": "Red",
+        "color": "#ea5b41"
+    },
+    {
+        "texture": null,
+        "secondaryColors": [
+            {
+                "name": "Mango",
+                "color": "#ffa228",
+                "id": "03636",
+                "code": "OC-03636",
+                "texture": null
+            },
+            {
+                "name": "Almond Cookie",
+                "color": "#edc678",
+                "id": "09834",
+                "code": "OC-09834",
+                "texture": null
+            },
+            {
+                "name": "Australien",
+                "color": "#c99f16",
+                "id": "57194",
+                "code": "OC-57194",
+                "texture": null
+            },
+            {
+                "name": "Budder Skin",
+                "color": "#fce4c4",
+                "id": "05634",
+                "code": "OC-05634",
+                "texture": null
+            },
+            {
+                "name": "Coral Confection",
+                "color": "#f9cca7",
+                "id": "71745",
+                "code": "OC-71745",
+                "texture": null
+            },
+            {
+                "name": "Crushed Orange",
+                "color": "#e27831",
+                "id": "51486",
+                "code": "OC-51486",
+                "texture": null
+            },
+            {
+                "name": "Fresh Clay",
+                "color": "#bf7f37",
+                "id": "10601",
+                "code": "OC-10601",
+                "texture": null
+            },
+            {
+                "name": "Fulgurite Copper",
+                "color": "#e5ba7e",
+                "id": "94638",
+                "code": "OC-94638",
+                "texture": null
+            },
+            {
+                "name": "Galliano",
+                "color": "#d3a721",
+                "id": "78235",
+                "code": "OC-78235",
+                "texture": null
+            },
+            {
+                "name": "Golden Brown",
+                "color": "#b28003",
+                "id": "90561",
+                "code": "OC-90561",
+                "texture": null
+            },
+            {
+                "name": "Karry",
+                "color": "#ffdac1",
+                "id": "39250",
+                "code": "OC-39250",
+                "texture": null
+            },
+            {
+                "name": "Kettle Corn",
+                "color": "#f7e3be",
+                "id": "68980",
+                "code": "OC-68980",
+                "texture": null
+            },
+            {
+                "name": "Letter Jacket",
+                "color": "#b58607",
+                "id": "89412",
+                "code": "OC-89412",
+                "texture": null
+            },
+            {
+                "name": "Melon Sorbet",
+                "color": "#f9b798",
+                "id": "20170",
+                "code": "OC-20170",
+                "texture": null
+            },
+            {
+                "name": "Oasis Sand",
+                "color": "#fceec7",
+                "id": "37983",
+                "code": "OC-37983",
+                "texture": null
+            },
+            {
+                "name": "Pineapple Crush",
+                "color": "#edd790",
+                "id": "37292",
+                "code": "OC-37292",
+                "texture": null
+            },
+            {
+                "name": "Suffragette Yellow",
+                "color": "#eacf9f",
+                "id": "61429",
+                "code": "OC-61429",
+                "texture": null
+            },
+            {
+                "name": "Sun",
+                "color": "#ef8a37",
+                "id": "84423",
+                "code": "OC-84423",
+                "texture": null
+            }
+        ],
+        "id": "11",
+        "name": "Orange",
+        "color": "#ffa228"
+    },
+    {
+        "texture": null,
+        "secondaryColors": [
+            {
+                "name": "Holly Green",
+                "color": "#119e76",
+                "id": "90785",
+                "code": "GC-90785",
+                "texture": null
+            },
+            {
+                "name": "Always Green Grass",
+                "color": "#14ad06",
+                "id": "74614",
+                "code": "GC-74614",
+                "texture": null
+            },
+            {
+                "name": "American Green",
+                "color": "#3dbf3d",
+                "id": "06274",
+                "code": "GC-06274",
+                "texture": null
+            },
+            {
+                "name": "Australian Mint",
+                "color": "#ecf9a2",
+                "id": "60765",
+                "code": "GC-60765",
+                "texture": null
+            },
+            {
+                "name": "Blister Pearl",
+                "color": "#afffed",
+                "id": "98916",
+                "code": "GC-98916",
+                "texture": null
+            },
+            {
+                "name": "Foam Green",
+                "color": "#91ffb2",
+                "id": "36936",
+                "code": "GC-36936",
+                "texture": null
+            },
+            {
+                "name": "Illicit Green",
+                "color": "#5afca6",
+                "id": "09211",
+                "code": "GC-09211",
+                "texture": null
+            },
+            {
+                "name": "Isotonic Water",
+                "color": "#dbf954",
+                "id": "86817",
+                "code": "GC-86817",
+                "texture": null
+            },
+            {
+                "name": "Laced Green",
+                "color": "#cdf49c",
+                "id": "94197",
+                "code": "GC-94197",
+                "texture": null
+            },
+            {
+                "name": "Last of Lettuce",
+                "color": "#97e062",
+                "id": "90579",
+                "code": "GC-90579",
+                "texture": null
+            },
+            {
+                "name": "Lens Flare Green",
+                "color": "#a7f7a0",
+                "id": "14391",
+                "code": "GC-14391",
+                "texture": null
+            },
+            {
+                "name": "Luxurious Lime",
+                "color": "#86e830",
+                "id": "08676",
+                "code": "GC-08676",
+                "texture": null
+            },
+            {
+                "name": "Mint Tonic",
+                "color": "#a1f4a1",
+                "id": "54847",
+                "code": "GC-54847",
+                "texture": null
+            },
+            {
+                "name": "Pastel Green",
+                "color": "#7fe282",
+                "id": "21478",
+                "code": "GC-21478",
+                "texture": null
+            },
+            {
+                "name": "Screen Glow",
+                "color": "#69ef9c",
+                "id": "01029",
+                "code": "GC-01029",
+                "texture": null
+            },
+            {
+                "name": "Solid Gold",
+                "color": "#bdd64f",
+                "id": "39642",
+                "code": "GC-39642",
+                "texture": null
+            },
+            {
+                "name": "Sunny Lime",
+                "color": "#ddf78f",
+                "id": "22861",
+                "code": "GC-22861",
+                "texture": null
+            },
+            {
+                "name": "Turquoise Pearl",
+                "color": "#85f2e5",
+                "id": "51533",
+                "code": "GC-51533",
+                "texture": null
+            }
+        ],
+        "id": "12",
+        "name": "Green",
+        "color": "#119e76"
+    },
+    {
+        "texture": null,
+        "secondaryColors": [
+            {
+                "name": "Seljuk Blue",
+                "color": "#418ef2",
+                "id": "29133",
+                "code": "BC-29133",
+                "texture": null
+            },
+            {
+                "name": "Atlantic Depths",
+                "color": "#03166b",
+                "id": "04237",
+                "code": "BC-04237",
+                "texture": null
+            },
+            {
+                "name": "Azul Turquesa",
+                "color": "#6bbcc6",
+                "id": "51209",
+                "code": "BC-51209",
+                "texture": null
+            },
+            {
+                "name": "Blue Cardinal Flower",
+                "color": "#2b37c4",
+                "id": "89625",
+                "code": "BC-89625",
+                "texture": null
+            },
+            {
+                "name": "Blue Cuddle",
+                "color": "#82b3ce",
+                "id": "32274",
+                "code": "BC-32274",
+                "texture": null
+            },
+            {
+                "name": "Blue Oyster Cult",
+                "color": "#5d7ae2",
+                "id": "17873",
+                "code": "BC-17873",
+                "texture": null
+            },
+            {
+                "name": "Circumorbital Ring",
+                "color": "#6351bc",
+                "id": "47542",
+                "code": "BC-47542",
+                "texture": null
+            },
+            {
+                "name": "Deep Daijin Blue",
+                "color": "#2819aa",
+                "id": "35338",
+                "code": "BC-35338",
+                "texture": null
+            },
+            {
+                "name": "Eyeshadow Blue",
+                "color": "#6892c9",
+                "id": "54862",
+                "code": "BC-54862",
+                "texture": null
+            },
+            {
+                "name": "Honest",
+                "color": "#9db6e0",
+                "id": "36952",
+                "code": "BC-36952",
+                "texture": null
+            },
+            {
+                "name": "Ice Cold Stare",
+                "color": "#b5d1ff",
+                "id": "19204",
+                "code": "BC-19204",
+                "texture": null
+            },
+            {
+                "name": "Intergalactic Highway",
+                "color": "#253187",
+                "id": "08632",
+                "code": "BC-08632",
+                "texture": null
+            },
+            {
+                "name": "North Star Blue",
+                "color": "#252f9e",
+                "id": "16657",
+                "code": "BC-16657",
+                "texture": null
+            },
+            {
+                "name": "Pontoon",
+                "color": "#0b6189",
+                "id": "81170",
+                "code": "BC-81170",
+                "texture": null
+            },
+            {
+                "name": "Porpita Porpita",
+                "color": "#278dc4",
+                "id": "61236",
+                "code": "BC-61236",
+                "texture": null
+            },
+            {
+                "name": "Royalty",
+                "color": "#4d2ba5",
+                "id": "93907",
+                "code": "BC-93907",
+                "texture": null
+            },
+            {
+                "name": "Sky High",
+                "color": "#a8c2ed",
+                "id": "99255",
+                "code": "BC-99255",
+                "texture": null
+            },
+            {
+                "name": "Whale's Tale",
+                "color": "#13557f",
+                "id": "62912",
+                "code": "BC-62912",
+                "texture": null
+            }
+        ],
+        "id": "14",
+        "name": "Blue",
+        "color": "#418ef2"
+    },
+    {
+        "texture": null,
+        "secondaryColors": [
+            {
+                "name": "Wild Violet",
+                "color": "#671696",
+                "id": "44470",
+                "code": "PC-44470",
+                "texture": null
+            },
+            {
+                "name": "Amarklor Violet",
+                "color": "#4a1299",
+                "id": "47389",
+                "code": "PC-47389",
+                "texture": null
+            },
+            {
+                "name": "Aubergine Perl",
+                "color": "#5a0aaa",
+                "id": "07661",
+                "code": "PC-07661",
+                "texture": null
+            },
+            {
+                "name": "Blue Magenta Violet",
+                "color": "#4f2e9b",
+                "id": "76632",
+                "code": "PC-76632",
+                "texture": null
+            },
+            {
+                "name": "French Violet",
+                "color": "#7708cc",
+                "id": "45521",
+                "code": "PC-45521",
+                "texture": null
+            },
+            {
+                "name": "Invasive Indigo",
+                "color": "#410182",
+                "id": "68365",
+                "code": "PC-68365",
+                "texture": null
+            },
+            {
+                "name": "Lavender Cream",
+                "color": "#cd9ff2",
+                "id": "90408",
+                "code": "PC-90408",
+                "texture": null
+            },
+            {
+                "name": "Lavender",
+                "color": "#b36edd",
+                "id": "11656",
+                "code": "PC-11656",
+                "texture": null
+            },
+            {
+                "name": "Lilac",
+                "color": "#cea4fc",
+                "id": "91840",
+                "code": "PC-91840",
+                "texture": null
+            },
+            {
+                "name": "Morado Purple",
+                "color": "#9752d8",
+                "id": "39050",
+                "code": "PC-39050",
+                "texture": null
+            },
+            {
+                "name": "Neon Boneyard",
+                "color": "#e0c2f9",
+                "id": "19835",
+                "code": "PC-19835",
+                "texture": null
+            },
+            {
+                "name": "Petal Plush",
+                "color": "#d3adea",
+                "id": "34070",
+                "code": "PC-34070",
+                "texture": null
+            },
+            {
+                "name": "Plasma Trail",
+                "color": "#d29af9",
+                "id": "45898",
+                "code": "PC-45898",
+                "texture": null
+            },
+            {
+                "name": "Purple Hedonist",
+                "color": "#a062fc",
+                "id": "39364",
+                "code": "PC-39364",
+                "texture": null
+            },
+            {
+                "name": "Purple Pristine",
+                "color": "#7737a8",
+                "id": "96375",
+                "code": "PC-96375",
+                "texture": null
+            },
+            {
+                "name": "Purple Rain",
+                "color": "#7537c6",
+                "id": "28811",
+                "code": "PC-28811",
+                "texture": null
+            },
+            {
+                "name": "Royal Lavender",
+                "color": "#8255b2",
+                "id": "74266",
+                "code": "PC-74266",
+                "texture": null
+            },
+            {
+                "name": "Space Battle Blue",
+                "color": "#450ea3",
+                "id": "32617",
+                "code": "PC-32617",
+                "texture": null
+            }
+        ],
+        "id": "15",
+        "name": "Purple",
+        "color": "#671696"
+    },
+    {
+        "texture": null,
+        "secondaryColors": [
+            {
+                "name": "Steel Pink",
+                "color": "#ce2dcb",
+                "id": "81823",
+                "code": "PP-81823",
+                "texture": null
+            },
+            {
+                "name": "Actinic Light",
+                "color": "#ff49ef",
+                "id": "68000",
+                "code": "PP-68000",
+                "texture": null
+            },
+            {
+                "name": "Blush Essence",
+                "color": "#cf8ee5",
+                "id": "67323",
+                "code": "PP-67323",
+                "texture": null
+            },
+            {
+                "name": "Byzantine",
+                "color": "#ce35a5",
+                "id": "77782",
+                "code": "PP-77782",
+                "texture": null
+            },
+            {
+                "name": "Classic Rose",
+                "color": "#ffcce6",
+                "id": "28006",
+                "code": "PP-28006",
+                "texture": null
+            },
+            {
+                "name": "Dark Princess Pink",
+                "color": "#d6358b",
+                "id": "12680",
+                "code": "PP-12680",
+                "texture": null
+            },
+            {
+                "name": "Fúchsia Intenso",
+                "color": "#d802d1",
+                "id": "73517",
+                "code": "PP-73517",
+                "texture": null
+            },
+            {
+                "name": "Hitsujiyama Pink",
+                "color": "#e866ff",
+                "id": "47133",
+                "code": "PP-47133",
+                "texture": null
+            },
+            {
+                "name": "Maiden Pink",
+                "color": "#ef32e3",
+                "id": "00952",
+                "code": "PP-00952",
+                "texture": null
+            },
+            {
+                "name": "Prom Queen",
+                "color": "#981cc9",
+                "id": "52256",
+                "code": "PP-52256",
+                "texture": null
+            },
+            {
+                "name": "Punk Rock Purple",
+                "color": "#c609ad",
+                "id": "77818",
+                "code": "PP-77818",
+                "texture": null
+            },
+            {
+                "name": "Purple Pirate",
+                "color": "#c904af",
+                "id": "65038",
+                "code": "PP-65038",
+                "texture": null
+            },
+            {
+                "name": "Rich Brilliant Lavender",
+                "color": "#eea7f9",
+                "id": "41621",
+                "code": "PP-41621",
+                "texture": null
+            },
+            {
+                "name": "Shrine of Pleasures",
+                "color": "#d13284",
+                "id": "03476",
+                "code": "PP-03476",
+                "texture": null
+            },
+            {
+                "name": "Sparkling Purple",
+                "color": "#c80cfc",
+                "id": "65430",
+                "code": "PP-65430",
+                "texture": null
+            },
+            {
+                "name": "Ultraviolet Berl",
+                "color": "#b83fd3",
+                "id": "07942",
+                "code": "PP-07942",
+                "texture": null
+            },
+            {
+                "name": "Ultraviolet Onsible",
+                "color": "#c641db",
+                "id": "60795",
+                "code": "PP-60795",
+                "texture": null
+            }
+        ],
+        "id": "16",
+        "name": "Pink",
+        "color": "#ce2dcb"
+    }
+]
