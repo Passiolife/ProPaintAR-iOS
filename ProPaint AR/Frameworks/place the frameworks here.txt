@@ -4,6 +4,5 @@ RemodelAR.xcframework
 PassioRemodelAISDK.xcframework
 
 The latest version of these frameworks can be found at the following locations:
-
 https://github.com/Passiolife/iOS-RemodelAR-Distribution
 https://github.com/Passiolife/Passio-Remodel-AI-iOS-SDK-Distribution

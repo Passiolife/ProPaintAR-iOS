@@ -15,9 +15,9 @@ protocol ColorAPI {
 
 class ColorAPIMock: ColorAPI {
     func fetchColors(callback: @escaping ([Paint], Error?) -> Void) {
-        let passio = fetchPassioColors()
-//        let kilzAmazon = fetchKilzAmazonColors()
-        callback(passio, nil)
+//        let passio = fetchPassioColors()
+        let kilzAmazon = fetchKilzAmazonColors()
+        callback(kilzAmazon, nil)
         
         // Keep these around, we might use these for custom implementations for clients.
 //        let jazeera = fetchJazeeraColors()

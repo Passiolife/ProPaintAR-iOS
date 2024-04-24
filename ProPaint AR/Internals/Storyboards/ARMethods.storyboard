@@ -1969,7 +1969,7 @@ hold device still</string>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="none" allowsSelection="NO" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" estimatedSectionHeaderHeight="-1" sectionFooterHeight="-1" estimatedSectionFooterHeight="-1" translatesAutoresizingMaskIntoConstraints="NO" id="9Zf-tl-JcY">
-                                <rect key="frame" x="10" y="105" width="370" height="729"/>
+                                <rect key="frame" x="10" y="105" width="370" height="574"/>
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <connections>
                                     <outlet property="dataSource" destination="pQl-kq-4Tb" id="Zkc-ln-PfV"/>
@@ -2011,8 +2011,8 @@ hold device still</string>
                                     <action selector="homeTapped:" destination="pQl-kq-4Tb" eventType="touchUpInside" id="uNy-xo-4N7"/>
                                 </connections>
                             </view>
-                            <view hidden="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="oOJ-rT-qtk">
-                                <rect key="frame" x="0.0" y="844" width="390" height="155"/>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="oOJ-rT-qtk">
+                                <rect key="frame" x="0.0" y="689" width="390" height="155"/>
                                 <subviews>
                                     <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="v0o-Ru-JMO">
                                         <rect key="frame" x="70" y="15" width="250" height="112"/>
@@ -2072,8 +2072,8 @@ hold device still</string>
                                     <constraint firstItem="v0o-Ru-JMO" firstAttribute="top" secondItem="oOJ-rT-qtk" secondAttribute="top" constant="15" id="ps7-Qu-gpH"/>
                                 </constraints>
                             </view>
-                            <button hidden="YES" opaque="NO" contentMode="center" contentHorizontalAlignment="center" contentVerticalAlignment="fill" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="NEe-wR-ykz">
-                                <rect key="frame" x="0.0" y="844" width="390" height="155"/>
+                            <button opaque="NO" contentMode="center" contentHorizontalAlignment="center" contentVerticalAlignment="fill" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="NEe-wR-ykz">
+                                <rect key="frame" x="0.0" y="689" width="390" height="155"/>
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="155" id="ELT-kl-TRn"/>
@@ -2105,7 +2105,7 @@ hold device still</string>
                             <constraint firstItem="rv5-SS-pdz" firstAttribute="centerX" secondItem="NTs-ck-70v" secondAttribute="centerX" id="amX-qh-Bgf"/>
                             <constraint firstItem="NEe-wR-ykz" firstAttribute="leading" secondItem="oOJ-rT-qtk" secondAttribute="leading" id="hJP-f7-MXo"/>
                             <constraint firstAttribute="trailing" secondItem="NEe-wR-ykz" secondAttribute="trailing" id="tUR-0V-MI0"/>
-                            <constraint firstAttribute="bottom" secondItem="NEe-wR-ykz" secondAttribute="bottom" constant="-155" id="vUz-HR-3nH"/>
+                            <constraint firstAttribute="bottom" secondItem="NEe-wR-ykz" secondAttribute="bottom" id="vUz-HR-3nH"/>
                             <constraint firstItem="NEe-wR-ykz" firstAttribute="leading" secondItem="MWz-fZ-fAT" secondAttribute="leading" id="wIv-tf-ca5"/>
                             <constraint firstItem="NTs-ck-70v" firstAttribute="trailing" secondItem="9Zf-tl-JcY" secondAttribute="trailing" constant="10" id="yDb-Vz-AgY"/>
                         </constraints>

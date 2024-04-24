@@ -92,7 +92,8 @@ final class CartRepoImpl: CartRepo {
         url += "?AssociateTag=ls2wsfuws-20"
         
         for (index, item) in items.enumerated() {
-            if let asin = item.asin {
+            if let asin = item.asin,
+               item.quantity > 0 {
                 url += "&ASIN.\(index)=\(asin)"
                 url += "&Quantity.\(index)=\(item.quantity)"
             }
