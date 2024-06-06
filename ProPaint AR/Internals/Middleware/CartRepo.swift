@@ -89,7 +89,7 @@ final class CartRepoImpl: CartRepo {
         
         var url = cartPath
 //        url += "?AWSAccessKeyId=\(accessKey)"
-        url += "?AssociateTag=ls2wsfuws-20"
+        url += "?AssociateTag=passio0c6-20"
         
         for (index, item) in items.enumerated() {
             if let asin = item.asin,
